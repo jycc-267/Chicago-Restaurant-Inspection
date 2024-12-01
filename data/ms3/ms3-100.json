@@ -1,0 +1,18 @@
+[
+  {
+    "url": "create",
+    "response": 200
+  },
+  {
+    "url": "count",
+    "response": 200,
+    "body" : "0"
+  },
+  {
+    "file": "chiDirty100.json"
+  },
+  {
+    "url": "clean",
+    "response": 200
+  }
+]

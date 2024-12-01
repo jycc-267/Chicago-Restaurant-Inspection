@@ -1,0 +1,46 @@
+Team members: I done by myself.
+
+
+Functionality incomplete: None.
+
+
+Estimated hours spent: 3-4 hours.
+
+
+Parts you got stuck on (if any): understanding how blocking can be imolemented by using temporary table.
+
+
+How work was partitioned: All done by myself.
+
+
+How blocking was done:
+ - The temporary table temp_block includes all columns from ri_restaurants and adds two new attributes for blocking: zip_block (full zip code) and name_block (Only the first charcter of the restaurant name).
+ - The query SELECT DISTINCT zip_block, name_block FROM temp_block retrieves all unique blocks with different combinations of zip_block and name_block.
+ - For each unique block, match all records (please look at Milestone 3 write up) that belong to that block.
+
+Performance analysis:
+Below is the performance data of ms3-100.json and ms4.json (chiDirty1k.json) using both MS3 and MS4: 
+
+MS3: app.config['scaling'] == FALSE
+ - python3 client/client.py -f data/ms3/ms3-100.json  0.36s user 0.06s system 43% cpu 0.953 total
+ - python3 client/client.py -f data/ms3/ms3-100.json  0.36s user 0.06s system 45% cpu 0.917 total
+ - python3 client/client.py -f data/ms3/ms3-100.json  0.35s user 0.06s system 45% cpu 0.912 total
+ - Average: 2.782s/3 = 0.9273333s
+
+ - python3 client/client.py -f data/ms4/ms4.json  1.29s user 0.15s system 17% cpu 8.430 total
+ - python3 client/client.py -f data/ms4/ms4.json  1.22s user 0.15s system 16% cpu 8.198 total
+ - python3 client/client.py -f data/ms4/ms4.json  1.23s user 0.14s system 16% cpu 8.347 total
+ - Average: 24.975s/3 = 8.325s
+
+MS4: app.config['scaling'] == True
+ - python3 client/client.py -f data/ms3/ms3-100.json  0.36s user 0.05s system 60% cpu 0.676 total
+ - python3 client/client.py -f data/ms3/ms3-100.json  0.36s user 0.06s system 61% cpu 0.666 total
+ - python3 client/client.py -f data/ms3/ms3-100.json  0.36s user 0.06s system 61% cpu 0.673 total
+ - Average: 2.015s/3 = 0.67166667s
+
+ - python3 client/client.py -f data/ms4/ms4.json  1.23s user 0.15s system 53% cpu 2.596 total
+ - python3 client/client.py -f data/ms4/ms4.json  1.25s user 0.15s system 53% cpu 2.617 total
+ - python3 client/client.py -f data/ms4/ms4.json  1.24s user 0.15s system 53% cpu 2.592 total
+ - Average: 7.805s/3 = 2.60166667s
+
+Doing blocking is obviously faster than not doing so.

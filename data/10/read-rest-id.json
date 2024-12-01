@@ -1,0 +1,64 @@
+{
+  "get_path": "restaurants",
+  "response": 200,
+  "tests": [
+    {
+      "inputs": 1,
+      "expected": {
+        "id": 1,
+        "name": "CHICAGO WINGS AROUND THE WORLD",
+        "facility_type": "Restaurant",
+        "address": "748 W 61ST ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60621",
+        "clean": 0,
+        "latitude": 41.783502980089736,
+        "longitude": -87.64438637632864,
+        "inspections": [
+          {
+            "id": "2370283",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-05-07 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 6,
+      "expected": {
+        "id": 6,
+        "name": "CELIS NUTRICION",
+        "facility_type": "Restaurant",
+        "address": "3344 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.779014264743914,
+        "longitude": -87.70734216168728,
+        "inspections": [
+          {
+            "id": "2369871",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-29 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Fail",
+            "violations": "3. MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING - Comments: NO EMPLOYEE HEALTH POLICY IN PLACE. INSTD TO PROVIDE A VERIFIABLE EMPLOYEE ACKNOWLEDGED HEALTH POLICY AND MAINTAIN. PRIORITY FOUNDATION 7-38-010 | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: NO PEST CONTROL LOGBOOK OR PROOF OF SERVICE ON SITE. INSTD TO PROVIDE AND MAINTAIN ON SITE. PRIORITY FOUNDATION 7-38-030(C)."
+          },
+          {
+            "id": "2370179",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-05-06 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    }
+  ]
+}

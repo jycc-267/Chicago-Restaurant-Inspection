@@ -1,0 +1,51 @@
+{
+  "get_path": "restaurants/by-inspection",
+  "response": 200,
+  "tests": [
+    {
+      "inputs": 2370283,
+      "expected": {
+        "id": 1,
+        "name": "CHICAGO WINGS AROUND THE WORLD",
+        "facility_type": "Restaurant",
+        "address": "748 W 61ST ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60621",
+        "clean": 0,
+        "latitude": 41.783502980089736,
+        "longitude": -87.64438637632864
+      }
+    },
+    {
+      "inputs": 2370179,
+      "expected": {
+        "id": 6,
+        "name": "CELIS NUTRICION",
+        "facility_type": "Restaurant",
+        "address": "3344 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.779014264743914,
+        "longitude": -87.70734216168728
+      }
+    },
+    {
+      "inputs": 2370175,
+      "expected": {
+        "id": 7,
+        "name": "MOBIL GAS STATION",
+        "facility_type": "Grocery Store",
+        "address": "7059 S ASHLAND AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60636",
+        "clean": 0,
+        "latitude": 41.765004259431706,
+        "longitude": -87.66365411321728
+      }
+    }
+  ]
+}

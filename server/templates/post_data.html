@@ -1,0 +1,60 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Post Song
+{% endblock %}
+
+{% block main %}
+
+<form action="/web/post_data" method="post">
+        <select name="path" id="path">
+            <option value="inspections">Post Inspection</option>
+        </select>
+        <div class="form-group">
+
+            <input autocomplete="off" autofocus class="form-control input-lg" name="json_data"
+                   placeholder="JSON for a single record goes here" type="text" size="80">
+        </div>
+        <button class="btn btn-primary" type="submit">Post</button>
+</form>
+
+    <div>
+
+
+    <h3>Sample Inspection JSON</h3>
+    <pre>
+    {
+        "inspection_id": "2359211",
+        "name": "TORTOISE CLUB",
+        "aka_name": "TORTOISE CLUB",
+        "license_number": "2121289",
+        "facility_type": "Restaurant",
+        "risk": "Risk 1 (High)",
+        "address": "350 N STATE ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60654",
+        "date": "01/23/2020",
+        "inspection_type": "Canvass",
+        "results": "Pass",
+        "violations": "",
+        "latitude": "41.888895927694364",
+        "longitude": "-87.62820008276263",
+        "location": "(-87.62820008276263, 41.888895927694364)"
+    }
+</pre>
+
+{%  if data != None and data|length > 0 %}
+    <div id="showData" onload="CreateTableFromJSON(data)">
+        <script>
+            CreateTableFromJSON(data);
+        </script>
+    </div>
+{% elif data != None and data|length == 0 %}
+    <div>
+        <h3>No Results found</h3>
+    </div>
+{% endif %}
+
+
+{% endblock %}

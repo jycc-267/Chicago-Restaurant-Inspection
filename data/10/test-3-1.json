@@ -1,0 +1,15 @@
+[
+    {
+      "url": "create",
+      "response": 200
+    },
+    {
+      "file": "add-insp.json"
+    },
+    {
+      "file": "add-insp-existing.json"
+    },
+    {
+      "file": "read-rest-id.json"
+    }
+]

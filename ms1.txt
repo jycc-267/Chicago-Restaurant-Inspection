@@ -1,0 +1,17 @@
+Team members: Yu-Chan Jimmy Chien
+
+
+Functionality incomplete: None
+
+
+Estimated hours spent: about 22 hours (spent too much time learning the framework of flask and sqlite3, reading documents, and dealing with configuration.)
+
+
+Parts you got stuck on (if any): Reading Documentation and Debugging on load_inspection().
+Quite confused about the parameters in def add_inspection_for_restaurant(self, inspection, restaurant).
+It takes me about 2 hours to realize 'inspection' and 'restaurant' refer to the post body (forgot to look at sample server).
+Also, I mixed the name of schema attributes with the dictionary keys of 'inspection' and 'restaurant' when I extracted test restaurant and inspection data from json dicts.
+
+
+How work was partitioned: I did the work by myself.
+

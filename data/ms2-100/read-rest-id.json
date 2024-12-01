@@ -1,0 +1,2432 @@
+{
+  "get_path": "restaurants",
+  "response": 200,
+  "tests": [
+    {
+      "inputs": 1,
+      "expected": {
+        "id": 1,
+        "name": "CHICAGO WINGS AROUND THE WORLD",
+        "facility_type": "Restaurant",
+        "address": "748 W 61ST ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60621",
+        "clean": 0,
+        "latitude": 41.783502980089736,
+        "longitude": -87.64438637632864,
+        "inspections": [
+          {
+            "id": "2370283",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-05-07 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 2,
+      "expected": {
+        "id": 2,
+        "name": "#1 DELI",
+        "facility_type": "Grocery Store",
+        "address": "6901 S NORMAL BLVD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60621",
+        "clean": 0,
+        "latitude": 41.76886618832226,
+        "longitude": -87.63709545616062,
+        "inspections": [
+          {
+            "id": "2370260",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-05-07 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "Pass w/ Conditions",
+            "violations": "3. MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING - Comments: OBSERVED NO SIGNED EMPLOYEES HEALTH POLICIES.MUST PROVIDE AND MAINTAIN.(PRIORITY FOUNDATION 7-38-010) | 5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: OBSERVED NO CLEAN-UP POLICY PROCEDURE AND ITEMS FOR VOMITING AND DIARRHEA.MUST PROVIDE AND MAINTAIN.(PRIORITY FOUNDATION 7-38-005) | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED HAND WASHING SINK IN PREP AREA NOT ACCESSIBLE.OBSERVED 6 CASES OF CHICKEN,A GARBAGE CAN STORED ON FLOOR IN FRONT OF SINK .ALSO. A GARDEN HOSE ATTACHED TO FAUCET OF HAND SINK.INSTRUCTED MANAGER TO REMOVE GARDEN HOSE,ARTICLES FROM IN FRONT OF SINK.KEEP ACCESSIBLE AT ALL TIMES.(PRIORITY FOUNDATION 7-38-030(C) | 16. FOOD-CONTACT SURFACES: CLEANED & SANITIZED - Comments: OBSERVED MANAGER WASHING MULTIUSE UTENSILS AT 3- COMPARTMENT SINK AND NOT SANITIZING THEM.HE'S USING A SCRUBBER TO WASH DISHES AND RINSE UNDER RUNNING WATER AND PUTTING UTENSILS ON OVERHEAD SHELVES.INSTRUCTED MANAGER ON HOW TO PROPERLY SET-UP 3- COMPARTMENT SINK TO WASH,RINSE AND SANITIZE MULTIUSE UTENSILS AND THEN AIR DRY BEFORE STORING ON SHELVES.(PRIORITY 7-38-025) | 23. PROPER DATE MARKING AND DISPOSITION - Comments: OBSERVED NO DATE MARKINGS ON TCS READY TO EAT FOODS BEING HELD FOR MORE THAN 24 HOURS INSIDE OF COOLERS.MUST PROVIDE AND MAINTAIN.(PRIORITY FOUNDATION 7-38-005) | 36. THERMOMETERS PROVIDED & ACCURATE - Comments: OBSERVED NO PROBE THERMOMETER FOR TAKING TEMPERATURES OF FOOD.MUST PROVIDE AND MAINTAIN.(PRIORITY FOUNDATION 7-38-005) | 37. FOOD PROPERLY LABELED; ORIGINAL CONTAINER - Comments: MUST LABEL FOOD STORAGE CONTAINERS WHEN FOOD IS NOT IN ORIGINAL PACKAGE. | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED AN APPX.'1-2' GAP IN CENTER OF DOUBLE ENTRY DOORS.MUST MAKE DOOR TIGHT FITTING. | 40. PERSONAL CLEANLINESS - Comments: MUST PROVIDE HAIR RESTRAINTS FOR ALL FOOD HANDLERS. | 41. WIPING CLOTHS: PROPERLY USED & STORED - Comments: MUST STORE WIPING CLOTHS ON CUTTING BOARDS AND COOLERS IN A SANITIZING SOLUTION WHEN NOT IN USE. | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: MUST REMOVE FOIL FROM PREP TABLES,CARDBOARD FROM INSIDE OF DELI COOLER.MUST ELIMINATE CRATES IN COOLERS AND THROUGHOUT PREMISES FOR STORAGE AND PROVIDE ADEQUATE SHELVING UNITS. | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: MUST REPAIR OR REPLACE WORN CUTTING BOARDS. | 49. NON-FOOD/FOOD CONTACT SURFACES CLEAN - Comments: MUST CLEAN DEBRIS BUILD UP ON FRYER CABINETS,GRILL TABLE.MUST DEFROST ICE CREAM FREEZER. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: MUST CLEAN DIRT BUILD UP FROM WALLS AND DOOR OF TOILET ROOM DOOR,PREP AREA,LOBBY AND WHERE NEEDED. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: MUST ELEVATE,REMOVE AND ORGANIZE ARTICLES OFF OF FLOOR AND AWAY FROM WALLS THROUGHOUT . | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: MUST CLEAN DEBRIS BUILD UP FROM FLOOR IN WALK IN COOLER AND FREEZER,PREP AND STORAGE. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: MUST REPAIR OR REPLACE MISSING CEILING TILES IN PREP/DISH WASHING AREA,DAMAGED FLOOR TILES WHERE NEEDED. | 56. ADEQUATE VENTILATION & LIGHTING; DESIGNATED AREAS USED - Comments: MUST CLEAN BUILD UP AT FILTERS AND HOOD OF COOKING EQUIPMENT. | 56. ADEQUATE VENTILATION & LIGHTING; DESIGNATED AREAS USED - Comments: MUST REPLACE BURNT OUT LIGHTS AT HOOD OF COOKING EQUIPMENT. | 57. ALL FOOD EMPLOYEES HAVE FOOD HANDLER TRAINING - Comments: OBSERVED NO FOOD HANDLERS TRAINING FOR EMPLOYEES.MUST PROVIDE AND MAINTAIN. | 58. ALLERGEN TRAINING AS REQUIRED - Comments: OBSERVED NO FOOD ALLERGEN TRAINING FOR ALL FOOD MANAGERS.MUST PROVIDE AND MAINTAIN."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 3,
+      "expected": {
+        "id": 3,
+        "name": "ROUTE 69 PALACE",
+        "facility_type": "",
+        "address": "808 W 69TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60621",
+        "clean": 0,
+        "latitude": 41.76894196327128,
+        "longitude": -87.64490819463862,
+        "inspections": [
+          {
+            "id": "2370276",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-05-07 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 4,
+      "expected": {
+        "id": 4,
+        "name": "HYATT HOUSE/HYATT PLACE AND FOOD CT",
+        "facility_type": "",
+        "address": "1835 W HARRISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60612",
+        "clean": 0,
+        "latitude": 41.87398795331432,
+        "longitude": -87.67299740933659,
+        "inspections": [
+          {
+            "id": "2370218",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-05-06 00:00:00",
+            "inspection_type": "License",
+            "results": "Not Ready",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 5,
+      "expected": {
+        "id": 5,
+        "name": "TAYLORMADE QUE",
+        "facility_type": "Restaurant",
+        "address": "6717 S HALSTED ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60621",
+        "clean": 0,
+        "latitude": 41.77193273410113,
+        "longitude": -87.64443484974524,
+        "inspections": [
+          {
+            "id": "2370195",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-05-06 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "No Entry",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 6,
+      "expected": {
+        "id": 6,
+        "name": "CELIS NUTRICION",
+        "facility_type": "Restaurant",
+        "address": "3344 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.779014264743914,
+        "longitude": -87.70734216168728,
+        "inspections": [
+          {
+            "id": "2369871",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-29 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Fail",
+            "violations": "3. MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING - Comments: NO EMPLOYEE HEALTH POLICY IN PLACE. INSTD TO PROVIDE A VERIFIABLE EMPLOYEE ACKNOWLEDGED HEALTH POLICY AND MAINTAIN. PRIORITY FOUNDATION 7-38-010 | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: NO PEST CONTROL LOGBOOK OR PROOF OF SERVICE ON SITE. INSTD TO PROVIDE AND MAINTAIN ON SITE. PRIORITY FOUNDATION 7-38-030(C)."
+          },
+          {
+            "id": "2370179",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-05-06 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 7,
+      "expected": {
+        "id": 7,
+        "name": "MOBIL GAS STATION",
+        "facility_type": "Grocery Store",
+        "address": "7059 S ASHLAND AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60636",
+        "clean": 0,
+        "latitude": 41.765004259431706,
+        "longitude": -87.66365411321728,
+        "inspections": [
+          {
+            "id": "2370175",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-05-06 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 8,
+      "expected": {
+        "id": 8,
+        "name": "S & G GRILL",
+        "facility_type": "Restaurant",
+        "address": "3000 N LINCOLN AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60657",
+        "clean": 0,
+        "latitude": 41.93612294441291,
+        "longitude": -87.66391410739975,
+        "inspections": [
+          {
+            "id": "2370117",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-05-05 00:00:00",
+            "inspection_type": "Short Form Complaint",
+            "results": "Pass",
+            "violations": "49. NON-FOOD/FOOD CONTACT SURFACES CLEAN - Comments:  OBSERVED ACCUMULATED DUST BUILD UP ON PREP AREA REACH IN COOLERS CONDENSERS. MUST CLEAN AND MAINTAIN. | 51. PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: BACKFLOW PREVENTION DEVICE NOT LOCATED AT MOP SINK. MUST PROVIDE AND MAKE VISIBLE A BACKFLOW PREVENTION DEVICE FOR MOP SINK. | 53. TOILET FACILITIES: PROPERLY CONSTRUCTED, SUPPLIED, & CLEANED - Comments: NO COVERED TRASH RECEPTACLE IN WOMENS WASHROOM. MUST PROVIDE."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 9,
+      "expected": {
+        "id": 9,
+        "name": "KC'S ACADEMY OF EARLY CHILDHOOD EDUCATION, INC",
+        "facility_type": "Daycare Above and Under 2 Years",
+        "address": "3110 N SHEFFIELD AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60657",
+        "clean": 0,
+        "latitude": 41.93842674063546,
+        "longitude": -87.65420203147254,
+        "inspections": [
+          {
+            "id": "2370106",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-05-05 00:00:00",
+            "inspection_type": "License",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 10,
+      "expected": {
+        "id": 10,
+        "name": "JIMMYS BEST MIXED GRILL",
+        "facility_type": "Restaurant",
+        "address": "200 W 103RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60628",
+        "clean": 0,
+        "latitude": 41.707210358472786,
+        "longitude": -87.62835881151437,
+        "inspections": [
+          {
+            "id": "2370099",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-05-04 00:00:00",
+            "inspection_type": "Short Form Complaint",
+            "results": "Pass w/ Conditions",
+            "violations": "21. PROPER HOT HOLDING TEMPERATURES - Comments: OBSERVED IMPROPER HOT TEMPERATURE OF COOKED CHICKEN AT 69.0F IN PRE AREA. INSTRUCTED TO MAINTAIN HOT (TCS) FOODS AT 135.0F OR HIGHER. APPROX 5-LBS OF CHICKEN REMOVED AND DISCARDED AT COST APPROX $10.00-COS PRIORITY VIOLATION ISSUED. | 36. THERMOMETERS PROVIDED & ACCURATE - Comments: INSTRUCTED MANAGER TO PROVIDE AND MAINTAIN WORKING THERMOMETERS INSIDE THE PREP COOLERS IN THE FRONT | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: NOTED A FEW DAMAGED CEILING TILES AND ALSO DIRTY ONES. MUST REPLACE AND NEEDED AND CLEAN OTHERS | 57. ALL FOOD EMPLOYEES HAVE FOOD HANDLER TRAINING - Comments: INSTRUCTED MANAGER TO COMPLY WITH THE IDPH FOOD HANDLER REQUIREMENTS OR CITATIONS WILL FOLLOW"
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 11,
+      "expected": {
+        "id": 11,
+        "name": "MARIANO'S #8538",
+        "facility_type": "Grocery Store",
+        "address": "3030 N BROADWAY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60657",
+        "clean": 0,
+        "latitude": 41.93733843730944,
+        "longitude": -87.64445647150518,
+        "inspections": [
+          {
+            "id": "2370058",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-05-04 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "Pass",
+            "violations": "47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: OBSERVED 2 REACH IN COOLERS GLASS DOORS BROKEN AT CHEESE SHOP, ESTABLSHMENT IS USING BAGS AS TEMPORARY DOOR COVERS. INSTRUCTED MANAGER MUST PROVIDE WORKING GLASS DOORS FOR SAID COOLERS."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 12,
+      "expected": {
+        "id": 12,
+        "name": "TWO  MILE LLC",
+        "facility_type": "",
+        "address": "9907 S WALDEN PKWY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60643",
+        "clean": 0,
+        "latitude": 41.71362985424284,
+        "longitude": -87.66754400022322,
+        "inspections": [
+          {
+            "id": "2370049",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-05-01 00:00:00",
+            "inspection_type": "License",
+            "results": "Not Ready",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 13,
+      "expected": {
+        "id": 13,
+        "name": "HAROLD'S CHICKEN SHACK #27",
+        "facility_type": "Restaurant",
+        "address": "10259 S HALSTED ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60628",
+        "clean": 0,
+        "latitude": 41.707010735306305,
+        "longitude": -87.64269046563244,
+        "inspections": [
+          {
+            "id": "2370035",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-05-01 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "No Entry",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 14,
+      "expected": {
+        "id": 14,
+        "name": "IHOP",
+        "facility_type": "Restaurant",
+        "address": "7547-7549 S CICERO AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60652",
+        "clean": 0,
+        "latitude": 41.755233206640504,
+        "longitude": -87.74140580966458,
+        "inspections": [
+          {
+            "id": "2370022",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-05-01 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 15,
+      "expected": {
+        "id": 15,
+        "name": "WALGREENS #1496",
+        "facility_type": "Grocery Store",
+        "address": "6310 N NAGLE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60646",
+        "clean": 0,
+        "latitude": 41.99592392276426,
+        "longitude": -87.78763799175523,
+        "inspections": [
+          {
+            "id": "2369973",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-30 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 16,
+      "expected": {
+        "id": 16,
+        "name": "SHEIKA FOOD MARKET",
+        "facility_type": "Grocery Store",
+        "address": "2902 W MADISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60612",
+        "clean": 0,
+        "latitude": 41.8811600061328,
+        "longitude": -87.69893042924681,
+        "inspections": [
+          {
+            "id": "2369963",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-30 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 17,
+      "expected": {
+        "id": 17,
+        "name": "ALINA PHARMACY",
+        "facility_type": "Grocery Store",
+        "address": "1547 W CHICAGO AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60642",
+        "clean": 0,
+        "latitude": 41.89597324304578,
+        "longitude": -87.66674388868744,
+        "inspections": [
+          {
+            "id": "2369954",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-30 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 18,
+      "expected": {
+        "id": 18,
+        "name": "SHARKS",
+        "facility_type": "Restaurant",
+        "address": "338 S CALIFORNIA AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60612",
+        "clean": 0,
+        "latitude": 41.87621066522763,
+        "longitude": -87.69630549752043,
+        "inspections": [
+          {
+            "id": "2369948",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-30 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 19,
+      "expected": {
+        "id": 19,
+        "name": "MINI MERCADO LOS PICACHOS",
+        "facility_type": "",
+        "address": "6001 S KEDZIE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.784338681497566,
+        "longitude": -87.70314406491092,
+        "inspections": [
+          {
+            "id": "2369934",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-30 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 20,
+      "expected": {
+        "id": 20,
+        "name": "KING PHO PLUS",
+        "facility_type": "Restaurant",
+        "address": "5414-5416 W DEVON AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60646",
+        "clean": 0,
+        "latitude": 41.997438286068146,
+        "longitude": -87.76439911874026,
+        "inspections": [
+          {
+            "id": "2369942",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-30 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "Fail",
+            "violations": "2. CITY OF CHICAGO FOOD SERVICE SANITATION CERTIFICATE - Comments: NO CITY OF CHICAGO CERTIFIED FOOD MANAGER ON SITE DURING THE INSPECTION WHILE THE TEMPERATURE CONTROL FOR SAFETY FOODS (RICE ETC) HAS BEEN PREPARED AND SERVED. INSTRUCTED A CITY OF CHICAGO CERTIFIED FOOD MANAGER MUST BE ON SITE AT ALL TIMES FOODS ARE BEING PREPARED AND SERVED. PRIORITY FOUNDATION VIOLATION 7-38-012,NO CITATION ISSUED. | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED HAND WASHING SINKS IN WASH ROOMS NOT IN OPERABLE,ACCESIBLE FOR EMPLOYEE USE,OBSERVED WATER LINES MISSING.INSTRUCTED TO PROVIDE AND REPAIR PLUMBING WATER LINES AND MAINTAIN. MANAGER IMMEDIATELY CALLED MAINTENANCE SERVICE MAN FOR REPAIRS.PRIORITY VIOLATION 7-38-030(C,NO CITATION ISSUED. (MAINTENANCE MAN REPAIRED PLUMBING ISSUE BY THE END OF INSPECTION ). CORRECTED ON SITE.(COS). | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: INSTRUCTED TO PROVIDE AND MAINTAIN HAND WASHING SIGNS AT HAND SINKS IN KITCHEN FOOD PREP AREA AND DISH WASHING AREA. | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED GAP AT BOTTOM OF REAR EXIT DOOR APPROXIMATELY 1/4' INCH MODE OF ENTRY.INSTRUCTED TO PEST PROOF MENTIONED DOOR ALL ACROSS THE BOTTOM TO PREVENT PEST ENTRY. | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED PEST INFESTATION WITH LIVE COCKROACH ACTIVITY IN THE FOLLOWING AREAS OF FACILITY OBSERVED 15 LIVE ADULT COCKROACHES CRAWLING ON FLOOR TILES AND BEHIND HOT COOKING EQUIPMENTS STORAGE SHELVINGS AND BEHIND UNDER AND AROUND THE FOOD PREP COOLERS IN THE KITCHEN FOOD PREP AREAS AND 5 LIVE INFANT COCKROACHES ON WALL NEAR THE HAND SINK IN KITCHEN FOOD PREP AREAS AND APPROXIMATELY 50 LIVE INFANT COCKROACHES UNDERNEATH THE 2 DOOR FOOD PREP COOLER IN KITCHEN FOOD PREP AREA AND APPROXIMATELY 5 LIVE INFANT COCKROACHES UNDERNEATH THE DISH WASHING 3 COMPARTMENT SINK AREAS,APPROXIMATELY 10 LIVE ADULT COCKROACHES INSIDE UNUSED ICE MAKER LOCATED IN KITCHEN FOOD PREP AREA ALSO,APPROXIMATELY 3 LIVE INFANT COCKROACHES CRAWLING ON FLOOR UNDERNEATH THE 1 COMPARTMENT SINK BEHIND CLUTTERED FRONT COUNTER SERVICE AREAS.MANAGEMENT INSTRUCTED TO DETAIL CLEAN AND SANITIZE ALL AFFECTED AREAS AND  PEST CONTROL SERVICE IS NOW RECCOMENDED.PRIORITY VIOLATION 7-38-020(A),NO CITATION ISSUED. | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: INSTRUCTED TO REMOVE GLUE BOARDS  WITH EXCESSIVE AMOUNTS OF DEAD COCKROACHES ON FLOOR BEHIND AND AROUND CHEST FREEZERS LOCATED AT FRONT SERVICE COUNTER AREAS. | 41. WIPING CLOTHS: PROPERLY USED & STORED - Comments: WIPING CLOTH FOR WIPING THE PREP TABLES, DINING TABLES, CHOPPING BOARD MUST BE STORED ON A BUCKET WITH SANITIZING SOLUTION IN BETWEEN USES. | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: OBSERVED A TORN DOOR GASKETS INSIDE OF THE 2 DOOR PREP COOLER AND LEFT DOOR IS LOOSE ON THE SAME COOLER. MANAGEMENT INSTRUCTED TO REPLACE THE TORN DOOR GASKET AND REPAIR LOOSE DOOR ON COOLER. | 48. WAREWASHING FACILITIES: INSTALLED, MAINTAINED & USED; TEST STRIPS - Comments: FOUND NO SANITIZER TEST STRIP KIT ON SITE AT THE TIME OF INSPECTION. INSTRUCTED TO HAVE A TEST STRIP KIT ON SITE AT ALL TIMES TO PROPERLY MONITOR THE STRENGTH OF THE SANITIZER FOR 3-COMPARTMENT SINK AND LOW TEMPERATURE DISH MACHINE.PRIORITY FOUNDATION VIOLATION 7-38-005,NO CITATION ISSUED. | 49. NON-FOOD/FOOD CONTACT SURFACES CLEAN - Comments: DETAIL CLEAN KITCHEN STORAGE SHELVES AND ROLLING STORAGE CARTS ENCRUSTED WITH DRIED UP FOOD SPLASHED DEBRIS,SIDES OF HOT COOKING EQUIPMENTS,INTERIORS OF DEEP FRYERS AND INTERIORS OF COOKING STOVES/OVENS.DETAIL CLEAN FOOD PREP TABLES AND LEGS OF ALL EQUIPMENTS WITH SPLASHED SUGAR AND FLOUR SPILLS,INTERIOR DOOR GASKETS AND SHELFS IN ALL COOLERS TO REMOVE SPLASHED FOOD DEBRIS.  | 51. PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: OBSERVED WATER LEAKS AT DRAIN PIPE UNDERNEATH THE DISH WASHING 3-COMPARTMENT SINK AREA.INSTRUCTED TO REPAIR PLUMBING LEAKS AND TO MAINTAIN. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: INSTRUCTED TO DETAIL CLEAN AND ORGANIZE KITCHEN PREP AREAS AND REAR DISH WASHING AREA ALSO,AT FRONT COUNTER SERVICE AREA AND REMOVE UNNECESSARY ARTICLES ON TOP AND BEHIND COOLERS DUE TO POTENTIAL PEST HARBORAGE AND TO MAINTAIN.  | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: INSTRUCTED TO SEAL HOLES ON BROKEN WALL TILES IN KITCHEN FOOD PREP AREAS  DIRECTLY BEHIND COOKING EQUIPMENTS AND UNDER AND AROUND THE REAR DISH WASHING AREAS. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: FLOORS ALONG WALLS AND IN ALL CORNERS REQUIRE A DETAIL CLEANING THROUGHOUT THE FACILITY AND RE-GROUT FLOOR TILES IN KITCHEN FOOD PREP AREAS IN FRONT OF COOKING STOVE EQUIPMENTS. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: CEILING VENT COVER ON BOTH WASHROOM WITH DUST BUILD-UP. MUST CLEAN AND MAINTAIN. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: WALLS BEHIND THE COOKING EQUIPMENT WITH FOOD SPLASHED. INSTRUCTED TO CLEAN AND MAINTAIN."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 21,
+      "expected": {
+        "id": 21,
+        "name": "B & A FOOD",
+        "facility_type": "Grocery Store",
+        "address": "6229 S KEDZIE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.77994387212033,
+        "longitude": -87.70301608318445,
+        "inspections": [
+          {
+            "id": "2369933",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-30 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 22,
+      "expected": {
+        "id": 22,
+        "name": "AROUND THE WAY MINI MART",
+        "facility_type": "Grocery Store",
+        "address": "158 N LARAMIE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60644",
+        "clean": 0,
+        "latitude": 41.883966609047185,
+        "longitude": -87.75534386759125,
+        "inspections": [
+          {
+            "id": "2369924",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-30 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 23,
+      "expected": {
+        "id": 23,
+        "name": "LATIN AMERICAN REST & LOUNGE",
+        "facility_type": "Restaurant",
+        "address": "2743 W DIVISION ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60622",
+        "clean": 0,
+        "latitude": 41.90282132997605,
+        "longitude": -87.69614329943664,
+        "inspections": [
+          {
+            "id": "2369893",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-29 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 24,
+      "expected": {
+        "id": 24,
+        "name": "Azusa Liquors Inc.",
+        "facility_type": "Grocery Store",
+        "address": "4411-4413 N BROADWAY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60640",
+        "clean": 0,
+        "latitude": 41.96215337650536,
+        "longitude": -87.65523520127385,
+        "inspections": [
+          {
+            "id": "2369783",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-27 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Fail",
+            "violations": "5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: FOUND NO VOMIT AND DIARRHEAL CLEANUP PROCEDURES/VOMIT SPILL KIT. PRIORITY FOUNDATION. NO CITATION ISSUED. 7-38-005. MUST PROVIDE. | 50. HOT & COLD WATER AVAILABLE; ADEQUATE PRESSURE - Comments: FOUND NO HOT WATER AT PREMISES. MANAGEMENT STATES HOT WATER TANK INOPERABLE. PRIORITY VIOLATION. NO CITATION ISSUED. 7-38-030C. MUST PROVIDE HOT WATER AT PREMISES BY WED. 4-29-2020. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: FOUND WALLS AT BASEMENT DRY STORAGE NOT SMOOTH AND EASY TO CLEAN. MUST REPAIR. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: FOUND FLOORS NOT CLEAN AT PREMISES/BASEMENT STORAGE. MUST CLEAN AND SANITIZE."
+          },
+          {
+            "id": "2369901",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-29 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass w/ Conditions",
+            "violations": "5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: FOUND NO VOMIT AND DIARRHEAL CLEANUP PROCEDURES/VOMIT SPILL KIT. PRIORITY FOUNDATION. NO CITATION ISSUED. 7-38-005. MUST PROVIDE. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: FOUND WALLS AT BASEMENT DRY STORAGE NOT SMOOTH AND EASY TO CLEAN. MUST REPAIR. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: FOUND FLOORS NOT CLEAN AT PREMISES/BASEMENT STORAGE. MUST CLEAN AND SANITIZE."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 25,
+      "expected": {
+        "id": 25,
+        "name": "YOU BUY WE FRY INC.",
+        "facility_type": "Grocery Store",
+        "address": "5627 W MADISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60644",
+        "clean": 0,
+        "latitude": 41.88011861685613,
+        "longitude": -87.7660025098329,
+        "inspections": [
+          {
+            "id": "2369879",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-29 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 26,
+      "expected": {
+        "id": 26,
+        "name": "JIMMY'S FOOD & DELI,INC",
+        "facility_type": "Grocery Store",
+        "address": "5601 W MADISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60644",
+        "clean": 0,
+        "latitude": 41.880135062255434,
+        "longitude": -87.7649424467103,
+        "inspections": [
+          {
+            "id": "2369894",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-29 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Fail",
+            "violations": "3. MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING - Comments: OBSERVED NO WRITTEN EMPLOYEE HEALTH POLICY ON SITE. INSTRUCTED FACILITY TO ESTABLISH AN APPROPRIATE EMPLOYEE HEALTH POLICY AND MAINTAIN WITH VERIFIABLE SIGNED COPIES ON SITE FOR ALL FOOD EMPLOYEES.  PRIORITY FOUNDATION VIOLATION #7-38-010. NO CITATION ISSUED. | 23. PROPER DATE MARKING AND DISPOSITION - Comments: OBSERVED READY-TO-EAT, TIME/TEMPERATURE CONTROL FOR SAFETY (TCS) FOODS (SLICED TOMATOES) NOT DATE MARKED TO INDICATE THE PRODUCT'S NAME AND DATE IN WHICH THE FOOD MUST BE SOLD, DISCARDED OR CONSUMED WITHIN 7 DAYS. INSTRUCTED TO PROVIDE PROPER LABELS FOR DATE MARKING AND DISCARD DATE FOR REFRIGERATED, READY-TO-EAT, TCS FOODS HELD OVER 24HRS PLACED IN ALL COLD-HOLDING UNITS. THE EMPLOYEE PROVIDED A DATE MARK DURING THE INSPECTION. (COS) PRIORITY FOUNDATION VIOLATION #7-38-005. NO CITATION ISSUED. | 35. APPROVED THAWING METHODS USED - Comments: OBSERVED FACILITY NOT MEETING THAWING REQUIREMENTS. FOOD HANDLER THAWING FROZEN GROUND BEEF IN THREE COMPARTMENT SINK WITH NO RUNNING WATER. INFORMED FOOD HANDLER OF PROPER THAWING METHODS ( MUST UTILIZE RUNNING WATER WITH ENOUGH VOLATILITY WHEN THAWING). MUST MEET PROPER THAWING REQUIREMENTS AND MAINTAIN. | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED A 1/4' GAP AT THE BOTTOM OF THE FRONT ENTRANCE DOOR. MUST PROVIDE A TIGHT FITTING SEAL AT ALL OUTER OPENINGS TO PREVENT THE ENTRY OF PESTS. | 41. WIPING CLOTHS: PROPERLY USED & STORED - Comments: OBSERVED WET WIPING CLOTH LAYING THROUGHOUT THE REAR PREP AREA. MUST PROPERLY STORE WIPING CLOTHS IN A SANITIZING SOLUTION BETWEEN USE. | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: OBSERVED TORN DOOR GASKET INSIDE OF THE REACH-IN COOLER UNITS. INSTRUCTED TO REPLACE.  | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: OBSERVED THE INTERIOR OF THE  MICROWAVE IN THE FOOD PREP AREA SOILED WITH FOOD DERBIS AND SPLASH. INSTRUCTED TO CLEAN. | 48. WAREWASHING FACILITIES: INSTALLED, MAINTAINED & USED; TEST STRIPS - Comments: OBSERVED FACILITY WITHOUT A CHOLORINE CHEMICAL TEST KIT FOR SANITIZER OR FOR WARE WASHING AREA. INFORMED PERSON IN CHARGE A CHOLORINE TEST KIT THAT ACCURATELY MEASURES THE CONCENTRATION IN MG/L OF SANITIZING SOLUTION MUST BE PROVIDED. PRIORITY FOUNDATION VIOLATION #7-38-005. NO CITATION ISSUED. | 49. NON-FOOD/FOOD CONTACT SURFACES CLEAN - Comments: OBSERVED AN EXCESSIVE AMOUNT OF DEBRIS AND ICE BUILDUP IN THE INTERIOR OF ALL CHEST FREZZERS ON PREMISE. MUST REMOVE EXCESS ICE, DETAIL CLEAN, AND MAINTAIN. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: OBSERVED MOP IN A POSITION LOCATED IN THE REAR DISH AREA THAT DOES NOT ALLOW TO DRY PROPERLY AND PREVENT PEST HARBORAGE. MUST STORE MOP AFTER USE IN A MOUNTED POSITION THAT ALLOWS FOR AIR-DRYING WITHOUT SOILING AND PEST HARBORAGING. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: OBSERVED FOOD DEBRIS AND SPILLS ON THE FLOORS AND SURFACES THROUGHOUT THE FACILITY. INSTRUCTED TO DETAIL CLEAN UNDER ALL SHELVING UNITS, INTERIOR OF PREP COOLERS, HOT-HOLDING UNITS, PREP TABLES AND DEEP FRYERS TO REMOVE SPILLS, FOOD DEBRIS, DIRT BUILDUP AND/OR GREASE. MUST MAINTAIN AT ALL TIMES."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 27,
+      "expected": {
+        "id": 27,
+        "name": "MAPLEWOOD FOOD MARKET",
+        "facility_type": "",
+        "address": "2525 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.779096350315285,
+        "longitude": -87.68723997712125,
+        "inspections": [
+          {
+            "id": "2369883",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-29 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 28,
+      "expected": {
+        "id": 28,
+        "name": "JUN HOE TOY RESTAURANT",
+        "facility_type": "",
+        "address": "2550 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.779304842029006,
+        "longitude": -87.68812936757858,
+        "inspections": [
+          {
+            "id": "2369881",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-29 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 29,
+      "expected": {
+        "id": 29,
+        "name": "GOODY MART",
+        "facility_type": "",
+        "address": "2559 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.779078756349676,
+        "longitude": -87.68846026679678,
+        "inspections": [
+          {
+            "id": "2369876",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-29 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 30,
+      "expected": {
+        "id": 30,
+        "name": "7-ELEVEN",
+        "facility_type": "Grocery Store",
+        "address": "4346 N KIMBALL AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60618",
+        "clean": 0,
+        "latitude": 41.960731356474305,
+        "longitude": -87.71327613356749,
+        "inspections": [
+          {
+            "id": "2369862",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-29 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Fail",
+            "violations": "1. PERSON IN CHARGE PRESENT, DEMONSTRATES KNOWLEDGE, AND PERFORMS DUTIES - Comments: PERSON IN CHARGE AT THE TIME OF INSPECTION DOES NOT HAVE A CITY OF CHICAGO SANITATION CERTIFICATE. PRIORITY FOUNDATION VIOLATION. NO CITATION ISSUED. | 2. CITY OF CHICAGO FOOD SERVICE SANITATION CERTIFICATE - Comments: NO CITY OF CHICAGO CERTIFIED FOOD MANAGER ON SITE WHILE TCS FOODS ARE BEING PREPARED AND SERVED SUCH AS HOT DOGS AT 143.6F. INSTRUCTED A CITY OF CHICAGO CERTIFIED FOOD MANAGER MUST BE ON SITE AT ALL TIMES FOODS ARE BEING PREPARED AND SERVED. PRIORITY FOUNDATION VIOLATION 7-38-012. NO CITATION ISSUED. | 3. MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING - Comments: NO WRITTEN EMPLOYEE HEALTH POLICY ON SITE FOR ALL EMPLOYEES. MUST PROVIDE. PRIORITY FOUNDATION VIOLATION 7-38-010. NO CITATION ISSUED. | 5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: NO WRITTEN CLEANING PROCEDURE OR REQUIRED EQUIPMENT FOR A VOMITING/DIARRHEA EVENT. MUST PROVIDE. PRIORITY FOUNDATION VIOLATION 7-38-005. NO CITATION ISSUED. | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED FRONT PREP HAND WASHING SINK NOT ACCESSIBLE. SINK BEING USED AS A SLOP SINK WITH NOTED USED ICE INSIDE. INSTRUCTED THE HAND WASHING SINK IS FOR HAND WASHING PURPOSES ONLY. PRIORITY FOUNDATION VIOLATION 7-38-030(C). NO CITATION ISSUED. | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: NO HANDWASH BOWL AT DISHWASH 3-COMPARTMENT SINK AREA. INSTRUCTED MANAGER MUST PROVIDE A HANDWASH BOWL WITH RUNNING HOT AND COLD WATER AT DISHWASH 3-COMPARTMENT SINK AREA. PRIORITY FOUNDATION 7-38-030(C). NO CITATION ISSUED. | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: NO PAPER TOWELS AVAILABLE IN THE EMPLOYEE WASHROOM. MUST PROVIDE AT ALL TIMES. PRIORITY FOUNDATION VIOLATION 7-38-030(C). NO CITATION ISSUED. | 15. FOOD SEPARATED AND PROTECTED - Comments: OBSERVED RAW ANIMAL ORIGIN EGGS BEING STORED ON TOP SHELVING ABOVE AN OPEN BOX OF FULLY COOKED SAUSAGE INSIDE THE WALK-IN COOLER. SAUSAGE REMOVED AND DISCARDED. EGGS REMOVED. PRIORITY VIOLATION 7-38-005. NO CITATION ISSUED. | 36. THERMOMETERS PROVIDED & ACCURATE - Comments: NO METAL STEM THERMOMETER ON SITE TO MONITOR FOOD COOKED FOOD TEMPERATURES. MUST PROVIDE. PRIORITY FOUNDATION VIOLATION 7-38-005. NO CITATION ISSUED. | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED APPROXIMATELY 75 RODENT DROPPINGS THROUGHOUT THE REAR STORAGE ROOM, UNDER AND ON ALL SHELVING, ALONG BASEBOARDS AND BEHIND ALL STORED ITEMS. INSTRUCTED TO REMOVE ALL DROPPINGS, SANITIZE ALL AREAS. RECOMMEND HAVING PEST CONTROL CO. SERVICE FOR RODENTS. PRIORITY FOUNDATION VIOLATION 7-38-020(A). | 40. PERSONAL CLEANLINESS - Comments: ALL FOOD HANDLERS MUST WEAR EFFECTIVE BEARD RESTRAINTS. | 41. WIPING CLOTHS: PROPERLY USED & STORED - Comments: ALL PREP AREA WIPING CLOTHS MUST BE HELD IN A CLEAN CONTAINER WITH A SANITIZING SOLUTION. | 48. WAREWASHING FACILITIES: INSTALLED, MAINTAINED & USED; TEST STRIPS - Comments: NO QUATERNARY CHEMICAL TEST STRIPS ON SITE TO MONITOR SANITATION LEVELS AT THE THREE COMPARTMENT SINK. MUST PROVIDE. PRIORITY FOUNDATION VIOLATION 7-38-005. NO CITATION ISSUED. | 49. NON-FOOD/FOOD CONTACT SURFACES CLEAN - Comments: EXTREMELY DIRTY DRIP BASINS WITH BLACK SLIME SUBSTANCE ON THE SODA AND SLURPEE DISPENSING MACHINES. MUST CLEAN AND MAINTAIN. | 49. NON-FOOD/FOOD CONTACT SURFACES CLEAN - Comments: ALL SHELVING FOR FOOD STORAGE IN THE WALK-IN COOLER EXTREMELY DIRTY WITH BROKEN EGG SHELLS, ASSORTED FOOD DEBRIS ENCRUSTED IN PLASTIC MILK CRATES BEING USED AS SHELVING. MUST REMOVE FOOD DEBRIS,MUST NOT USE MILK CRATES AS SHELVING. MUST BE SMOOTH CLEANABLE SURFACE.INTERIOR ALL OTHER FOOD COOLERS AND FREEZERS FOUND DIRTY WITH BUILT UP FOOD ACCUMULATION/DEBRIS. MUST CLEAN ALL AND MAINTAIN. | 49. NON-FOOD/FOOD CONTACT SURFACES CLEAN - Comments:  FRONT PREP AREA HANDWASH BOWL CABINET INTERIOR WITH ACCUMULATED FOOD/DIRT BUILD UP. INSTRUCTED MANAGER MUST CLEAN SAID INTERIOR OF HANDWASH BOWL CABINET. | 49. NON-FOOD/FOOD CONTACT SURFACES CLEAN - Comments: ALL SHELVING THROUGHOUT THE FRONT STORAGE/PREP AREA WITH DIRT AND DEBRIS.----EXTREMELY DIRT MOP SINK. MUST CLEAN AND MAINTAIN ALL.-----MUST NOT USE CARDBOARD AS LINER FOR SHELVING INSIDE HOT HOLDING FOOD UNITS. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: BOTH REAR AND FRONT STORAGE ROOMS FLOORS CLUTTERED THROUGHOUT. INSTRUCTED MANAGER MUST ELEVATE ALL ITEMS OFF FLOOR OR REMOVE ITEMS TO PREVENT POTENTIAL PEST HARBORAGE. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: FLOORS THROUGHOUT ENTIRE FACILITY WITH DIRT AND DEBRIS. BEHIND ALL COOLERS, SHELVING, FIXTURES. MUST CLEAN AND MAINTAIN.-----CEILING IN REAR STORAGE WITH FOOD SPLATTER AND WATER DAMAGED CEILING TILES. MUST REPLACE. MISSING CEILING TILE ABOVE THE SLURPEE/CASH STATION MACHINE. MUST REPLACE. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: OBSERVED SOILED MOPS STORED ON FLOOR OF GROCERY/SELF SERVE FOOD AREA. MUST PROPERLY STORE CLEANING TOOLS. | 57. ALL FOOD EMPLOYEES HAVE FOOD HANDLER TRAINING - Comments: NO PROOF OF FOOD HANDLER TRAINING OR CERTIFICATE FOR EMPLOYEE/FOOD HANDLER ON SITE."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 31,
+      "expected": {
+        "id": 31,
+        "name": "DONA",
+        "facility_type": "Restaurant",
+        "address": "944-946 N ORLEANS ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60610",
+        "clean": 0,
+        "latitude": 41.90033472432364,
+        "longitude": -87.63746309536123,
+        "inspections": [
+          {
+            "id": "2369870",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-29 00:00:00",
+            "inspection_type": "License",
+            "results": "Not Ready",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 32,
+      "expected": {
+        "id": 32,
+        "name": "WASABI",
+        "facility_type": "Restaurant",
+        "address": "2101-2111 N MILWAUKEE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60647",
+        "clean": 0,
+        "latitude": 41.91952161427481,
+        "longitude": -87.6915871617949,
+        "inspections": [
+          {
+            "id": "2369845",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-28 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 33,
+      "expected": {
+        "id": 33,
+        "name": "Chicago Prep Master Tenant LLC",
+        "facility_type": "Shared Kitchen",
+        "address": "5801 W Dickens AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60639",
+        "clean": 0,
+        "latitude": 41.91786924215764,
+        "longitude": -87.77069733431132,
+        "inspections": [
+          {
+            "id": "2369855",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-28 00:00:00",
+            "inspection_type": "License",
+            "results": "Fail",
+            "violations": "3. MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING - Comments: FOUND NO WRITTEN EMPLOYEE HEALTH POLICY ON THE PREMISES. MANAGEMENT INSTRUCTED TO PROVIDE A SIGNED EMPLOYEE HEALTH POLICY FOR EACH EMPLOYEE. PRIORITY FOUNDATION 7-38-010,NO CITATION ISSUED.  | 5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: FOUND NO PROCEDURE/PLAN FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS. INSTRUCTED TO PROVIDE AND MAINTAIN REQUIRED PROCEDURE/PLAN AND APPROPRIATE SUPPLIES OR KIT. (NECESSARY ITEMS AT A MINIMUM: GLOVES, FACE MASKS, DISPOSABLE MOPS AND APPROPRIATE SANITIZER/SPRAY THAT KILLS NOROVIRUS) PRIORITY FOUNDATION VIOLATION 7-38-005,NO CITATION ISSUED. | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: INSTRUCTED TO PROVIDE AND MAINTAIN HAND WASHING SIGNAGE AT ALL HAND WASHING SINKS. | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED NO HOT RUNNING WATER AT HAND SINKS IN WASH ROOMS OFFICE LOCATION.TEMPERATURE OF WATER WAS 60.7 F AT THE TIME OF INSPECTION. INSTRUCTED TO HAVE HOT RUNNING WATER MINIMUM TEMPERATURE 100 F. PRIORITY VIOLATION 7-38-030(C),NO CITATION ISSUED. | 33. PROPER COOLING METHODS USED; ADEQUATE EQUIPMENT FOR TEMPERATURE CONTROL - Comments: FOUND THE FOLLOWING WALK-IN-COOLERS NOT MAINTAINING PROPER TEMPERATURE. PREP KITCHEN#130 WALK-IN-COOLER AT 47.1 F AND PREP KITCHEN#192 WALK-IN-COOLER AT 51.8 F,PREP KITCHEN#135 WALK-IN-COOLER AT 45.0 F.INSTRUCTED MANAGER TO REPAIR REFRIGERATION UNITS AND MAINTAIN COLD HOLDING TEMPERATURE OF 41 F OR BELOW AT ALL TIMES. PRIORITY VIOLATION 7-38-005,NO CITATION ISSUED. | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED APPROXIMATELY 1/4' INCH GAP AT BOTTOM OF GREEN DOOR AT FRONT ENTRANCE AND AT THE BOTTOM CORNERS OF REAR OVER HEAD DOOR LOADING DOCK#182 ALSO,THERE'S AN OPEN 1' INCH GAP ON CENTER OF DOOR IN SAME AREA.MENTIONED DOORS MUST BE TIGHT FITTING TO PREVENT PEST ENTRY SHOWED MANAGER. | 39. CONTAMINATION PREVENTED DURING FOOD PREPARATION, STORAGE & DISPLAY - Comments: OBSERVED CEILINGS IN DRY STORAGE ROOM APPEARED TO HAVE SEWER/WASTE WATER PIPES  FOOD MUST NOT BE STORED UNDER SEWER LINES THAT ARE NOT SHIELDED TO INTERCEPT POTENTIAL DRIPS SHOWED MANAGER. | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: INSTRUCTED TO PROVIDE PROPER RAISED ELEVATED SHELVES FOR WALK-IN-COOLERS AND WALK-IN-FREEZERS AND DRY STORAGE ROOM AND MAINTAIN. | 51. PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: OBSERVED SMALL WATER LEAK AT DRAIN PIPE UNDERNEATH THE HAND SINK IN PREP KITCHEN #139 AND AT DRAIN PIPE UNDERNEATH THE 3-COMPARTMENT SINK IN PREP KITCHEN#191.INSTRUCTED TO REPAIR PLUMBING LEAKS AND TO MAINTAIN. | 51. PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: BACK FLOW PREVENTION DEVICE NOT LOCATED AT (1) ICE MACHINE SHOWED MANAGER. MUST INSTALL SO BACK FLOW PREVENTION DEVICES MAY BE LOCATED TO BE SERVICED AND MAINTAINED. | 53. TOILET FACILITIES: PROPERLY CONSTRUCTED, SUPPLIED, & CLEANED - Comments: OBSERVED NO COVERED WASTE RECEPTACLE PROVIDED IN WOMEN'S WASHROOM OFFICE LOCATION.MANAGEMENT INSTRUCTED TO PROVIDE AND MAINTAIN. | 53. TOILET FACILITIES: PROPERLY CONSTRUCTED, SUPPLIED, & CLEANED - Comments: OBSERVED NO SELF-CLOSING DOOR DEVICES ON THE WASH ROOM DOORS OFFICE LOCATION.MANAGEMENT INSTRUCTED TO INSTALL AND MAINTAIN. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: INSTRUCTED TO SEAL NOTICEABLE HOLES ON BRICK WALL IN ELECTRICAL ROOM#1O3 AND SEAL NOTICEABLE OPENINGS AROUND ELECTRICAL PIPES ABOVE THE WALK-IN-COOLERS IN PREP KITCHENS ALSO, MISSING BASEBOARDS ON WALL BEHIND THE WATER TANKS IN BOILER ROOM SHOWED MANAGER."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 34,
+      "expected": {
+        "id": 34,
+        "name": "Grand noble Wine And Spirits",
+        "facility_type": "Grocery Store",
+        "address": "1408 W GRAND AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60642",
+        "clean": 0,
+        "latitude": 41.89113344338077,
+        "longitude": -87.66267246403426,
+        "inspections": [
+          {
+            "id": "2369830",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-28 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 35,
+      "expected": {
+        "id": 35,
+        "name": "COTTAGE FOOD MART",
+        "facility_type": "Grocery Store",
+        "address": "8209 S COTTAGE GROVE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60619",
+        "clean": 0,
+        "latitude": 41.745482074149756,
+        "longitude": -87.60492840136864,
+        "inspections": [
+          {
+            "id": "2369809",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-28 00:00:00",
+            "inspection_type": "Complaint Re-Inspection",
+            "results": "Pass w/ Conditions",
+            "violations": "5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: 2-501.11  OBSERVED FACILITY WITH INCOMPLETE WRITTEN CLEAN-UP PROCEDURES AND SUPPLIES FOR RESPONDING TO VOMITING OR DIARRHEAL EVENTS. SUPPLIES MUST INCLUDE ADEQUATE SANITIZER THAT ELIMINATES NOROVIRUS. INSTRUCTED FACILITY TO PROVIDE COMPLETED CLEAN UP PROCEDURE TO INCLUDE SANITIZER CONCENTRATION LEVELS AND A LIST OF SUPPLIES TO PROPERLY HANDLE BODILY FLUID SPILLS ON SITE. (REFER TO REQUIREMENTS LISTED ABOVE)  PRIORITY FOUNDATION VIOLATION #7-38-005. NO CITATION ISSUED. | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: 6-301.14  OBSERVED NO HANDWASHING SIGNAGE AT REAR PREP HANDSINK. INSTRUCTED TO PROVIDE. | 23. PROPER DATE MARKING AND DISPOSITION - Comments: 3-501.17  OBSERVED READY-TO-EAT, TIME/TEMPERATURE CONTROL FOR SAFETY (TCS) FOODS (DELI MEAT) NOT DATE MARKED TO INDICATE THE PRODUCT'S NAME AND DATE IN WHICH THE FOOD MUST BE SOLD, DISCARDED OR CONSUMED WITHIN 7 DAYS. INSTRUCTED TO PROVIDE PROPER LABELS FOR DATE MARKING AND DISCARD DATE FOR REFRIGERATED, READY-TO-EAT, TCS FOODS HELD OVER 24HRS PLACED IN ALL COLD-HOLDING UNITS.  PRIORITY FOUNDATION VIOLATION #7-38-005. NO CITATION ISSUED. | 37. FOOD PROPERLY LABELED; ORIGINAL CONTAINER - Comments: 3-302.12  OBSERVED FOOD STORED IN CONTAINERS IN ALL REAR REFRIGERATION UNITS WITHOUT PROPER LABELING OF NAME. INSTRUCTED TO PERSON IN CHARGE TO PROVIDE A LABEL REFLECTING THE FOOD ITEM'S NAME WHEN FOOD HAS BEEN REMOVE FROM ITS ORIGINAL PACKAGING.\t | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: 4-101.19  OBSERVED BEVERAGE CRATES BEING USED AS SHELVING THROUGHOUT THE PREP AND LOBBY SALES FLOOR MUST REMOVE AND PROVIDE SHELVING THAT IS 6' OFF THE FLOOR AND PROVIDES FLOOR ACCESSIBILITY TO ENSURE ADEQUATE FACILITY CLEANING.\t | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: 4-501.12  OBSERVED CUTTING BOARDS IN THE REAR PREP AREA ATTACHED TO PREP TABLE AND REACH IN PREP COOLER WITH OPEN SEAMS AND DARK STAINS. INSTRUCTED TO REFINISH OR REPLACE DAMAGED OR STAINED CUTTING BOARDS AND MAINTAIN AT ALL TIMES.\t | 51. PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: 5-205.15  OBSERVED LEAK COMING FAUCET OF HANDSINK AND REAR MOP SINK NEAREST EXIT DOORS. INSTRUCTED TO REPAIR LEAK.\t | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: 6-501.114  OBSERVED EXCESS CLUTTER AND UNNECESSARY ARTICLES STORED OUTSIDE AND IN STORE'S REAR. MUST REMOVE ALL UNNECESSARY ARTICLES, CLEAN ALL CLUTTER, ORGANIZE, AND MAINTAIN AREAS AT ALL TIMES\t | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: 6-201.16  OBSERVED CHIPPED PAINT ON THE WALLS NEAR WASHROOM AND UTILITY MOP SINK. INSTRUCTED TO RESURFACE AND REPAINT CHIPPED AREAS TO ENSURE WALLS ARE SEALED, SMOOTH AND EASILY CLEANABLE.\t | 58. ALLERGEN TRAINING AS REQUIRED - Comments: 2-102.13  OBSERVED NO PERSON WITH ALLERGEN TRAINING. INSTRUCTED ANY PERSONS WITH THE CITY OF CHICAGO FOOD SANITATION CERTIFICATE TO COMPLY WITH COMPLETION OF TRAINING. MUST PROVIDE DOCUMENTATION.\t"
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 36,
+      "expected": {
+        "id": 36,
+        "name": "CVS/PHARMACY #11090",
+        "facility_type": "Grocery Store",
+        "address": "670-678 N WELLS ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60654",
+        "clean": 0,
+        "latitude": 41.89446120388508,
+        "longitude": -87.63429113921268,
+        "inspections": [
+          {
+            "id": "2369795",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-28 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 37,
+      "expected": {
+        "id": 37,
+        "name": "McDONALD'S",
+        "facility_type": "Restaurant",
+        "address": "186 W ADAMS ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60603",
+        "clean": 0,
+        "latitude": 41.87949996011278,
+        "longitude": -87.63335353982716,
+        "inspections": [
+          {
+            "id": "2369797",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-28 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 38,
+      "expected": {
+        "id": 38,
+        "name": "TAQUERIA VALPARAISO",
+        "facility_type": "Restaurant",
+        "address": "10500 S WESTERN AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60643",
+        "clean": 0,
+        "latitude": 41.70263854931954,
+        "longitude": -87.68164578260658,
+        "inspections": [
+          {
+            "id": "2369788",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-27 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 39,
+      "expected": {
+        "id": 39,
+        "name": "STARBUCKS COFFEE#48513",
+        "facility_type": "Restaurant",
+        "address": "469 W CHICAGO AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60654",
+        "clean": 0,
+        "latitude": 41.89638650437739,
+        "longitude": -87.64127960011128,
+        "inspections": [
+          {
+            "id": "2369749",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-27 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 40,
+      "expected": {
+        "id": 40,
+        "name": "SHELL",
+        "facility_type": "SERVICE GAS STATION",
+        "address": "1551 W NORTH AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60622",
+        "clean": 0,
+        "latitude": 41.91052635223628,
+        "longitude": -87.66729841079488,
+        "inspections": [
+          {
+            "id": "2369748",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-27 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 41,
+      "expected": {
+        "id": 41,
+        "name": "STARBUCKS COFFEE#27509",
+        "facility_type": "Restaurant",
+        "address": "1932 N MILWAUKEE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60647",
+        "clean": 0,
+        "latitude": 41.916523129352036,
+        "longitude": -87.68716978587564,
+        "inspections": [
+          {
+            "id": "2369753",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-27 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "No Entry",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 42,
+      "expected": {
+        "id": 42,
+        "name": "WELLS STREET POPCORN",
+        "facility_type": "Restaurant",
+        "address": "2804 N CLARK ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60657",
+        "clean": 0,
+        "latitude": 41.932920973712655,
+        "longitude": -87.6451545476329,
+        "inspections": [
+          {
+            "id": "2369752",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-27 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 43,
+      "expected": {
+        "id": 43,
+        "name": "SIDE PROJECT COFFEE LLC",
+        "facility_type": "Restaurant",
+        "address": "5139 N DAMEN AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60625",
+        "clean": 0,
+        "latitude": 41.97596978252027,
+        "longitude": -87.6792536619616,
+        "inspections": [
+          {
+            "id": "2369740",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-27 00:00:00",
+            "inspection_type": "License",
+            "results": "No Entry",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 44,
+      "expected": {
+        "id": 44,
+        "name": "JO'S HALLMARK",
+        "facility_type": "Grocery Store",
+        "address": "2943 W ADDISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60618",
+        "clean": 0,
+        "latitude": 41.94654039589746,
+        "longitude": -87.7022412642198,
+        "inspections": [
+          {
+            "id": "2369732",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-24 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 45,
+      "expected": {
+        "id": 45,
+        "name": "LOWCOUNTRY 2",
+        "facility_type": "Restaurant",
+        "address": "1132 S WABASH AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60605",
+        "clean": 0,
+        "latitude": 41.86826262122412,
+        "longitude": -87.62598811966616,
+        "inspections": [
+          {
+            "id": "2369728",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-24 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 46,
+      "expected": {
+        "id": 46,
+        "name": "NIKO'S GYROS",
+        "facility_type": "Restaurant",
+        "address": "2775 N ELSTON AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60647",
+        "clean": 0,
+        "latitude": 41.93213996955802,
+        "longitude": -87.68757393808554,
+        "inspections": [
+          {
+            "id": "2369718",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-24 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": "56. ADEQUATE VENTILATION & LIGHTING; DESIGNATED AREAS USED - Comments: 6-304.11  OBSERVED EXCESSIVE SOOT AND DEBRIS ON THE VENTILATION HOOD AND FILTERS. MANAGEMENT INSTRUCTED TO CLEAN AND MAINTAIN THE VENTILATION HOOD AND FILTERS."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 47,
+      "expected": {
+        "id": 47,
+        "name": "CITGO GAS STATION",
+        "facility_type": "Grocery Store",
+        "address": "3050 N PULASKI RD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60641",
+        "clean": 0,
+        "latitude": 41.93696637018973,
+        "longitude": -87.72727226802225,
+        "inspections": [
+          {
+            "id": "2369713",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-24 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 48,
+      "expected": {
+        "id": 48,
+        "name": "ELSTON NUGGET INC",
+        "facility_type": "Restaurant",
+        "address": "2406 W DIVERSEY AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60647",
+        "clean": 0,
+        "latitude": 41.932280853102945,
+        "longitude": -87.68819005751767,
+        "inspections": [
+          {
+            "id": "2369702",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-24 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 49,
+      "expected": {
+        "id": 49,
+        "name": "DRAGON BOWL",
+        "facility_type": "Restaurant",
+        "address": "220 W 31ST ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60616",
+        "clean": 0,
+        "latitude": 41.838333031882655,
+        "longitude": -87.63257553845861,
+        "inspections": [
+          {
+            "id": "2369688",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-24 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": "55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: THE UNUSED STOVE IN THE FOOD PREP AREA NEEDS TO BE DETAIL CLEANED TO REMOVE FOOD DEBRIS, RODENT URINE SMELL AND REMOVED FROM THE PREMISES. INSTRUCTED TO REMOVE UNNECESSARY ITEMS TO ELIMINATE POTENTIAL HARBORING SITES FOR RODENTS."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 50,
+      "expected": {
+        "id": 50,
+        "name": "D ARCO'S PIZZA INC.",
+        "facility_type": "Restaurant",
+        "address": "2819 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.778994736359884,
+        "longitude": -87.69421036159837,
+        "inspections": [
+          {
+            "id": "2369654",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-23 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 51,
+      "expected": {
+        "id": 51,
+        "name": "STAX CAFE",
+        "facility_type": "Restaurant",
+        "address": "522 N MILWAUKEE AVE ",
+        "city": "CHICAGO",
+        "state": "",
+        "zip": "60642",
+        "clean": 0,
+        "latitude": 41.89173286514732,
+        "longitude": -87.64865419293943,
+        "inspections": [
+          {
+            "id": "2369659",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-23 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 52,
+      "expected": {
+        "id": 52,
+        "name": "CVS/PHARMACY #8511",
+        "facility_type": "Grocery Store",
+        "address": "7858 S HALSTED ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60620",
+        "clean": 0,
+        "latitude": 41.750731568363506,
+        "longitude": -87.64419244328059,
+        "inspections": [
+          {
+            "id": "2369646",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-23 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 53,
+      "expected": {
+        "id": 53,
+        "name": "HI-VIBE",
+        "facility_type": "Restaurant",
+        "address": "942-944 W HURON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60642",
+        "clean": 0,
+        "latitude": 41.89513208866283,
+        "longitude": -87.65181321584753,
+        "inspections": [
+          {
+            "id": "2369645",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-23 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 54,
+      "expected": {
+        "id": 54,
+        "name": "TACO BURRITO KING",
+        "facility_type": "Restaurant",
+        "address": "811 W JACKSON BLVD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60607",
+        "clean": 0,
+        "latitude": 41.87783013580039,
+        "longitude": -87.64773606109019,
+        "inspections": [
+          {
+            "id": "2369627",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-22 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Pass w/ Conditions",
+            "violations": "3. MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING - Comments: NO EMPLOYEE HEALTH POLICIES ON PREMISES AS REQUIRED; MUST PROVIDE.  INSTRUCTED THE PERSON IN CHARGE TO PROVIDE DOCUMENTATION OF EMPLOYEES RESPONSIBILITY TO REPORT ANY ILLNESS TRANSMISSIBLE THROUGH FOOD.  PRIORITY FOUNDATION VIOLATION 7-38-010. | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: INSTRUCTED TO PROVIDE HANDWASHING SIGNS FOR ALL HAND SINKS. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: OBSERVED ONE AREA OF THE FLOOR IN THE DISHWASHING AREA MISSING FLOOR TILE; INSTRUCTED TO PROVIDE TILE TO THE FLOOR WHERE NEEDED. | 56. ADEQUATE VENTILATION & LIGHTING; DESIGNATED AREAS USED - Comments: OBSERVED THE VENTS IN THE HOODED SYSTEM IN NEED OF CLEANING; CLEAN VENTS IN HOODED SYSTEM ABOVE GRILL."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 55,
+      "expected": {
+        "id": 55,
+        "name": "STARBUCKS COFFEE #10955",
+        "facility_type": "Restaurant",
+        "address": "38 E ONTARIO ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.89340410169577,
+        "longitude": -87.6266968151909,
+        "inspections": [
+          {
+            "id": "2369632",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-23 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 56,
+      "expected": {
+        "id": 56,
+        "name": "SNAP KITCHEN",
+        "facility_type": "Restaurant",
+        "address": "750 N RUSH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.89645531336705,
+        "longitude": -87.62564516650414,
+        "inspections": [
+          {
+            "id": "2369620",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-22 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 57,
+      "expected": {
+        "id": 57,
+        "name": "GYRO GRILL MG, INC",
+        "facility_type": "Restaurant",
+        "address": "3660 W 111TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60655",
+        "clean": 0,
+        "latitude": 41.69148547162192,
+        "longitude": -87.71303008858897,
+        "inspections": [
+          {
+            "id": "2369618",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-22 00:00:00",
+            "inspection_type": "License Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 58,
+      "expected": {
+        "id": 58,
+        "name": "THE HALAL GUYS",
+        "facility_type": "Restaurant",
+        "address": "180 N WABASH AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60601",
+        "clean": 0,
+        "latitude": 41.885353703982936,
+        "longitude": -87.62641328540737,
+        "inspections": [
+          {
+            "id": "2369621",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-22 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 59,
+      "expected": {
+        "id": 59,
+        "name": "FAMILY DOLLAR STORE # 7178",
+        "facility_type": "Grocery Store",
+        "address": "8908 S ASHLAND AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60620",
+        "clean": 0,
+        "latitude": 41.73170789982645,
+        "longitude": -87.66309220937248,
+        "inspections": [
+          {
+            "id": "2369615",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-22 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 60,
+      "expected": {
+        "id": 60,
+        "name": "Harold's Chicken #36",
+        "facility_type": "Restaurant",
+        "address": "1361 N MILWAUKEE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60622",
+        "clean": 0,
+        "latitude": 41.906663977179086,
+        "longitude": -87.67142950595843,
+        "inspections": [
+          {
+            "id": "2369596",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-22 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Pass w/ Conditions",
+            "violations": "5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: OBSERVED A PROCEDURE BUT NO KIT FOR RESPONDING TO VOMIT AND DIARRHEA ON SITE AT TIME OF INSPECTION. INSTRUCTED TO OBTAIN A KIT WITH ALL NECESSARY SUPPLIES INCLUDING A SANITIZER RATED AS EFFECTIVE AGAINST NOROVIRUS ON SITE AT ALL TIMES. PRIORITY FOUNDATION VIOLATION 7-38-005. NO CITATION ISSUED.  | 56. ADEQUATE VENTILATION & LIGHTING; DESIGNATED AREAS USED - Comments: OBSERVED A BUILD UP OF GREASE AND FOOD DEBRIS ON VENTILATION HOOD ABOVE FRYERS. INSTRUCTED TO CLEAN AND MAINTAIN.  | 58. ALLERGEN TRAINING AS REQUIRED - Comments: OBSERVED CERTIFIED MANAGERS WITHOUT ALLERGY TRAINING. INSTRUCTED ALL EMPLOYEES HOLDING A CITY OF CHICAGO FOODSERVICE MANAGER CERTIFICATE MUST OBTAIN ALLERGEN TRAINING AND MAINTAIN RECORD THEREOF ON SITE AT ALL TIMES. "
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 61,
+      "expected": {
+        "id": 61,
+        "name": "SENOR PAN CAFE",
+        "facility_type": "Restaurant",
+        "address": "4612 W FULLERTON AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60639",
+        "clean": 0,
+        "latitude": 41.92440234177882,
+        "longitude": -87.74231825957612,
+        "inspections": [
+          {
+            "id": "2369587",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-22 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 62,
+      "expected": {
+        "id": 62,
+        "name": "WENDY'S",
+        "facility_type": "Restaurant",
+        "address": "8740 S LAFAYETTE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60620",
+        "clean": 0,
+        "latitude": 41.734880618955415,
+        "longitude": -87.6255519405575,
+        "inspections": [
+          {
+            "id": "2369592",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-22 00:00:00",
+            "inspection_type": "Complaint Re-Inspection",
+            "results": "Pass",
+            "violations": "36. THERMOMETERS PROVIDED & ACCURATE - Comments: Violation Codes: 4-204.112(B) Inspector Comments: MUST PROVIDE THERMOMETER FOR SALAD COOLER. | 49. NON-FOOD/FOOD CONTACT SURFACES CLEAN - Comments: Violation Codes: 4-601.11(C) Inspector Comments: MUST DELIME DISH MACHINE. | 56. ADEQUATE VENTILATION & LIGHTING; DESIGNATED AREAS USED - Comments: Violation Codes: 6-501.14 Inspector Comments: MUST CLEAN DEBRIS BUILD UP AT VENTILATION HOOD."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 63,
+      "expected": {
+        "id": 63,
+        "name": "STARBUCKS COFFEE #9426",
+        "facility_type": "Restaurant",
+        "address": "520 N OGDEN AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60642",
+        "clean": 0,
+        "latitude": 41.89176977820589,
+        "longitude": -87.65860461424934,
+        "inspections": [
+          {
+            "id": "2369580",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-22 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Pass",
+            "violations": "55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: FOUND DUST ACCUMULATION ON CEILING VENTS THROUGHOUT FACILITY, INSTRUCTED TO CLEAN AND MAINTAIN. "
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 64,
+      "expected": {
+        "id": 64,
+        "name": "MADISON FOOD & LIQUOR",
+        "facility_type": "Grocery Store",
+        "address": "5069 W MADISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60644",
+        "clean": 0,
+        "latitude": 41.880296089471855,
+        "longitude": -87.7524941981518,
+        "inspections": [
+          {
+
+            "id": "2369554",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-22 00:00:00",
+            "inspection_type": "License Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          },
+          {
+
+            "id": "2369555",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-22 00:00:00",
+            "inspection_type": "License Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 65,
+      "expected": {
+        "id": 65,
+        "name": "POPEYE'S FRIED CHICKEN",
+        "facility_type": "Restaurant",
+        "address": "7430 S STONY ISLAND AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60649",
+        "clean": 0,
+        "latitude": 41.7597206413212,
+        "longitude": -87.5863104488657,
+        "inspections": [
+          {
+            "id": "2369561",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-22 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "Pass",
+            "violations": "55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: OBSERVED MISSING GROUT AND DAMAGED FLOOR TILES IN PREP AREA. INSTRUCTED MANAGER TO REPAIR AND MAINTAIN."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 66,
+      "expected": {
+        "id": 66,
+        "name": "7-ELEVEN #33920A",
+        "facility_type": "Grocery Store",
+        "address": "3152 W 111TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60655",
+        "clean": 0,
+        "latitude": 41.69168074856247,
+        "longitude": -87.70051617452317,
+        "inspections": [
+          {
+            "id": "2369525",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-21 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Pass w/ Conditions",
+            "violations": "10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: HANDWASHING SINK IN PREP AREA  NOT ACCESSIBLE FOR EMPLOYEE HANDWASHING. OBSERVED FOOD TONGS,UTENSILS STORED INSIDE OF HANDWASHING SINK. INSTRUCTED (PIC) TO REMOVE-COS. INSTRUCTED (PIC) HANDWASHING SINK MUST ALWAYS BE ACCESSIBLE FOR HANDWASHING NOTHING INSIDE, IN FRONT OR ON HANDWASHING SINK., PRIORITY FOUNDATION ISSUED | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVD BOTTOM CENTER OF FRONT ENTRY DOOR NOT RODENT PROOFED AT BOTTOM AREA. INSTRUCTED TO REPAIR DOOR TO BE TIGHT-FITTING. | 51. PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: FAUCET LEAKY AT 3- COMPARTMENT SINK FAUCET. MUST REPAIR."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 67,
+      "expected": {
+        "id": 67,
+        "name": "DIALA GROCERY",
+        "facility_type": "Grocery Store",
+        "address": "1935 W FOSTER AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60640",
+        "clean": 0,
+        "latitude": 41.9759453108431,
+        "longitude": -87.6778086487862,
+        "inspections": [
+          {
+            "id": "2369526",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-21 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass w/ Conditions",
+            "violations": "5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: FOUND NO VOMIT AND DIARRHEA CLEAN UP POLICY/VOMIT SPILL KIT. PRIORITY FOUNDATION. NO CITATION ISSUED.7-38-005. MUST PROVIDE."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 68,
+      "expected": {
+        "id": 68,
+        "name": "CORCORANS PANTRY INC",
+        "facility_type": "Grocery Store",
+        "address": "1105 W BRYN MAWR AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60660",
+        "clean": 0,
+        "latitude": 41.98354478518444,
+        "longitude": -87.65826767250596,
+        "inspections": [
+          {
+            "id": "2369517",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-21 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 69,
+      "expected": {
+        "id": 69,
+        "name": "MCDONALD'S",
+        "facility_type": "Restaurant",
+        "address": "1657 W 95TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60643",
+        "clean": 0,
+        "latitude": 41.721073142167896,
+        "longitude": -87.66489837339608,
+        "inspections": [
+          {
+            "id": "2369518",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-21 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Pass",
+            "violations": "10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED NO HAND WASHING SINK IN FRONT BEVERAGE PREP AREA. INSTRUCTED MANAGER TO INSTALL HAND WASHING SINK WITH HOT AND COLD RUNNING WATER, SOAP AND PAPER TOWELS. PRIORITY FOUNDATION 7-38-030(C | 51. PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: OBSERVED LEAKY FAUCET AT 3 COMPARTMENT SINK. INSTRUCTED TO REPAIR. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments:  OBSERVED MISSING GROUT ON FLOOR TILES IN FRONT PREP, BEVERAGE, AND DISH WASHING AREAS. INSTRUCTED TO GROUT ALL FLOOR TILES AND MAINTAIN"
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 70,
+      "expected": {
+        "id": 70,
+        "name": "FAT CAT",
+        "facility_type": "Restaurant",
+        "address": "4840 N BROADWAY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60640",
+        "clean": 0,
+        "latitude": 41.970177996889234,
+        "longitude": -87.65984900729137,
+        "inspections": [
+          {
+            "id": "2369507",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-21 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "Pass",
+            "violations": "55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: FOUND FLOORS NOT CLEAN BEHIND COOKING EQUIPMENT AT KITCHEN. MUST CLEAN AND SANITIZE."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 71,
+      "expected": {
+        "id": 71,
+        "name": "HAROLD'S CHICKEN SHACK #14",
+        "facility_type": "Restaurant",
+        "address": "1208 E 53RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60615",
+        "clean": 0,
+        "latitude": 41.799570005698875,
+        "longitude": -87.5962391078313,
+        "inspections": [
+          {
+            "id": "2369490",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-21 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": "57. ALL FOOD EMPLOYEES HAVE FOOD HANDLER TRAINING - Comments: OBSERVED NO FOOD HANDLER TRAINING AVAILABLE. INSTRUCTED MANAGER TO PROVIDE FOOD HANDLER TRAINING FOR ALL EMPLOYEES. "
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 72,
+      "expected": {
+        "id": 72,
+        "name": "CHICK-FIL-A MICHIGAN AVENUE",
+        "facility_type": "Restaurant",
+        "address": "500 N MICHIGAN AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.890971229645146,
+        "longitude": -87.6242769455621,
+        "inspections": [
+          {
+            "id": "2369486",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-21 00:00:00",
+            "inspection_type": "License",
+            "results": "Not Ready",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 73,
+      "expected": {
+        "id": 73,
+        "name": "SURF'S OLD TOWN",
+        "facility_type": "Restaurant",
+        "address": "1143 N WELLS ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60610",
+        "clean": 0,
+        "latitude": 41.903371951075556,
+        "longitude": -87.6343141547651,
+        "inspections": [
+          {
+            "id": "2369488",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-21 00:00:00",
+            "inspection_type": "License",
+            "results": "Not Ready",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 74,
+      "expected": {
+        "id": 74,
+        "name": "MR G'S FOOD & LIQUOR",
+        "facility_type": "Grocery Store",
+        "address": "332-334 E 58TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60637",
+        "clean": 0,
+        "latitude": 41.789429857455325,
+        "longitude": -87.61784033976139,
+        "inspections": [
+          {
+            "id": "2369483",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-21 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Pass w/ Conditions",
+            "violations": "3. MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING - Comments: OBSERVED NO EMPLOYEE HEALTH POLICY AVAILABLE. INSTRUCTED MANAGER TO PROVIDE. PRIORITY FOUNDATION 7-38-010 | 5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: OBSERVED NO PROCEDURES OR SUPPLIES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS. INSTRUCTED MANAGER TO PROVIDE CLEAN UP POLICY AND SUPPLIES. PRIORITY FOUNDATION 7-38-005 | 36. THERMOMETERS PROVIDED & ACCURATE - Comments: OBSERVED NO METAL STEM THERMOMETER AVAILABLE. INSTRUCTED MANAGER TO PROVIDE FOR INTERNAL TEMPERATURES. PRIORITY FOUNDATION 7-38-005 | 45. SINGLE-USE/SINGLE-SERVICE ARTICLES: PROPERLY STORED & USED - Comments: OBSERVED SINGLE SERVICE ARTICLES NOT INVERTED IN FRONT PREP AREA. INSTRUCTED TO INVERT CARRYOUT TRAYS TO PREVENT CONTAMINATION. | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: OBSERVED RAW WOOD SURFACES ON SHELVING UNITS IN FRONT PREP AREA. INSTRUCTED MANAGERT TO SEAL ALL RAW WOOD SURFACES AND MAINTAIN. | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: OBSERVED INADEQUATE STOPPERS FOR 3-COMPARTMENT SINK. INSTRUCTED MANAGER TO PROVIDE ADEQUATE STOPPERS AND MAINTAIN. | 49. NON-FOOD/FOOD CONTACT SURFACES CLEAN - Comments: OBSERVED RESIDUE ON INTERIOR SURFACES AND PANEL OF ICE MACHINE. INSTRUCTED MANAGER TO CLEAN AND MAINTAIN. | 51. PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: OBSERVED NO BACK FLOW DEVICE ON UTILITY SINK. INSTRUCTED MANAGER TO PROVIDE. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: OBSERVED DEBRIS ON FLOORS ALONG WALLS AND CORNERS IN BASEMENT AND STORAGE AREAS. INSTRUCTED MANAGER TO CLEAN AND MAINTAIN. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: OBSERVED MISSING AND STAINED CEILING TILES IN SALES AREA. INSTRUCTED MANAGER TO REPLACE AND MAINTAIN."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 75,
+      "expected": {
+        "id": 75,
+        "name": "HUMBOLDT HAUS DELI & LIQUOR",
+        "facility_type": "Liquor",
+        "address": "2956-2958 W NORTH AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60647",
+        "clean": 0,
+        "latitude": 41.91028581429125,
+        "longitude": -87.70137268454522,
+        "inspections": [
+          {
+            "id": "2369471",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-20 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Fail",
+            "violations": "3. MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING - Comments: OBSERVED NO WRITTEN EMPLOYEE HEALTH POLICY ON THE PREMISES.  MANAGEMENT INSTRUCTED TO HAVE A SIGNED EMPLOYEE HEALTH POLICY FOR EACH EMPLOYEE.  PRIORITY FOUNDATION 7-38-010.  NO CITATION ISSUED. | 5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: OBSERVED NO SUPPLIES ON THE PREMISES TO RESPOND TO VOMIT AND DIARRHEAL EVENTS.  MANAGEMENT INSTRUCTED TO PROVIDE ALL SUPPLIES LISTED ON THE CLEAN UP PROCEDURE.  PRIORITY FOUNDATION 7-38-005.  NO CITATION ISSUED. | 37. FOOD PROPERLY LABELED; ORIGINAL CONTAINER - Comments: OBSERVED NO MANUFACTURING ADDRESS ON THE LABELS FOR THE DESSERTS.  MANAGEMENT INSTRUCTED TO PROVIDE. | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED THE PEST CONTROL LOG BOOK NOT BEING MAINTAINED.  NO SERVICE REPORTS WERE OBSERVED INSIDE OF THE LOG BOOK.  MANAGEMENT INSTRUCTED TO PROVIDE A RECENT SERVICE REPORT FROM THE PEST CONTROL COMPANY.  PRIORITY FOUNDATION 7-38-020(C).  NO CITATION ISSUED. | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED APPROXIMATELY 20 MOUSE DROPPINGS ON THE LEDGE IN THE BASEMENT BEHIND THE POP STORAGE AREA.  MANAGEMENT INSTRUCTED TO CLEAN AND REMOVE ALL RODENT DROPPINGS FROM THE PREMISES.  ADDITIONAL PEST CONTROL SERVICE IS NEEDED TO ELIMINATE THE PEST ACTIVITY.  PRIORITY FOUNDATION 7-38-020(A).  NO CITATION ISSUED. | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: REPLACE OR RESURFACE THE WORN CUTTING BOARD STORED ON TOP OF THE PREP COOLER. | 53. TOILET FACILITIES: PROPERLY CONSTRUCTED, SUPPLIED, & CLEANED - Comments: OBSERVED NO COVERED WASTE RECEPTACLE INSIDE OF THE WOMEN'S WASHROOM.  MUST PROVIDE."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 76,
+      "expected": {
+        "id": 76,
+        "name": "BOULEVARD DELI & LIQUOR",
+        "facility_type": "Restaurant",
+        "address": "2956-2958 W NORTH AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60647",
+        "clean": 0,
+        "latitude": 41.91028581429125,
+        "longitude": -87.70137268454522,
+        "inspections": [
+          {
+            "id": "2369469",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-20 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 77,
+      "expected": {
+        "id": 77,
+        "name": "TAQUERIA PRIMO CHUKIS UPTOWN",
+        "facility_type": "Restaurant",
+        "address": "1708-1710 W LAWRENCE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60640",
+        "clean": 0,
+        "latitude": 41.968966500431776,
+        "longitude": -87.67143451275741,
+        "inspections": [
+          {
+            "id": "2369464",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-20 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "Pass w/ Conditions",
+            "violations": "25. CONSUMER ADVISORY PROVIDED FOR RAW/UNDERCOOKED FOOD - Comments: FOUND NO REMINDER DISCLOSURE STATEMENT INSIDE MENU FOR UNDERCOOKED FOOD BEING SOLD(STEAK). PRIORITY FOUNDATION. NO CITATION ISSUED.7-38-005. MUST PROVIDE. | 37. FOOD PROPERLY LABELED; ORIGINAL CONTAINER - Comments: FOUND BULK FOOD NOT LABELED, FLOUR, SUGAR, ETC. MUST LABEL."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 78,
+      "expected": {
+        "id": 78,
+        "name": "DO RITE DONUTS",
+        "facility_type": "Restaurant",
+        "address": "233 E ERIE ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.89406316257156,
+        "longitude": -87.62139584024656,
+        "inspections": [
+          {
+            "id": "2369462",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-20 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 79,
+      "expected": {
+        "id": 79,
+        "name": "WINGSTOP",
+        "facility_type": "Restaurant",
+        "address": "1712 W 119TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60643",
+        "clean": 0,
+        "latitude": 41.6775910650455,
+        "longitude": -87.66447899825711,
+        "inspections": [
+          {
+            "id": "2369461",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-20 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Pass",
+            "violations": "10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED NO HAND WASHING SIGNS AT HAND WASHING SINKS IN PREP AND DISH WASHING AREAS. HAND WASHING SIGNS SHALL BE POSTED AT ALL HAND WASHING SINKS USED BY EMPLOYEES. | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED 1/4' GAP BETWEEN ENTRANCE/EXIT DOORS. INSTRUCTED TO SEAL ALL OUTER OPENINGS ON DOOR TO PREVENT PEST ENTRY"
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 80,
+      "expected": {
+        "id": 80,
+        "name": "BAR-B-QUE KINGDOM, LLC",
+        "facility_type": "Restaurant",
+        "address": "3715 W ROOSEVELT RD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60624",
+        "clean": 0,
+        "latitude": 41.86615080575098,
+        "longitude": -87.71852063495605,
+        "inspections": [
+          {
+            "id": "2369452",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-20 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "No Entry",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 81,
+      "expected": {
+        "id": 81,
+        "name": "MADISON FOOD MART, INC",
+        "facility_type": "Grocery Store",
+        "address": "5402 W MADISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60644",
+        "clean": 0,
+        "latitude": 41.88041576281324,
+        "longitude": -87.76027851465174,
+        "inspections": [
+          {
+            "id": "2369443",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-20 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Pass w/ Conditions",
+            "violations": "5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: OBSERVED NO WRITTEN PROCEDURES OR SUPPLIES FOR RESPONDING TO VOMITING OR DIARRHEAL EVENTS. SUPPLIES MUST INCLUDE ADEQUATE SANITIZER THAT ELIMINATES NOROVIRUS. INSTRUCTED FACILITY TO PROVIDE CLEAN UP POLICY AND SUPPLIES TO PROPERLY HANDLE BODILY FLUID SPILLS ON SITE. PRIORITY FOUNDATION VIOLATION #7-38-005. NO CITATION ISSUED. | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED NO HAND SIGNAGE AT THE HAND SINK IN AT THE HAND SINK IN THE REAR AND IN THE EMPLOYEE TOLIET ROOM. INSTRUCTED TO PROVIDE.  | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED HAND SINK IN REAR NEAR THE THREE COMPARTMENT SINK AND EMPLOYEE TOLIET ROOM NOT ACCESSIBLE. BASIN WAS FILLED WITH TOOLS AND  FOOD CONTAINER. INSTRUCTED THAT SINK MUST BE ACCESSIBLE AND MAINTAINED AT ALL TIMES. MANAGER REMOVED THE ITEMS OUT OF THE BASIN DURING THE INSPECTION. (COS) PRIORITY FOUNDATION #7-38-030(C). NO CITATION ISSUED. | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: OBSERVED MILK CRATES BEING USED AS SHELVING IN THE FRONT OF THE CASHIER COUNTER. MUST REMOVE AND PROVIDE SHELVING THAT IS 6' OFF THE FLOOR AND PROVIDES FLOOR ACCESSIBILITY TO ENSURE ADEQUATE FACILITY CLEANING. | 49. NON-FOOD/FOOD CONTACT SURFACES CLEAN - Comments: OBSERVED THE INTERIOR OF ALL THE ONE DOOR REACH IN COOLERS ON PREMISE IN NEED OF CLEANING. INSTRUCTED TO DETAIL CLEAN. | 51. PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: OBSERVED DRAINPIPE LEAKING UNDER THE THREE COMPARTMENT SINK IN THE REAR. INSTRUCTED MANAGER TO REPAIR LEAKING DRAINPIPE. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: OBSERVED MISSING AND DAMAGED FLOOR TILES ON THE SALES FLOOR. INSTRUCTED TO REPAIR TO CREATE A SMOOTH AND EASILY CLEANABLE SURFACE. MUST MAINTAIN AT ALL TIMES. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: OBSERVED WATER STAINED CEILING TILES IN THE REAR NEAR THE EMPLOYEE TOLIET ROOM. INSTRUCTED REPLACE THE STAINED CEILING TILES. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: OBSERVED EXCESS CLUTTER AND UNNECESSARY ARTICLES STORED IN THE REAR NEAR THE EMPLOYEE TOLIET ROOM. MUST REMOVE ALL UNNECESSARY ARTICLES, CLEAN ALL CLUTTER, ORGANIZE, AND MAINTAIN AREAS AT ALL TIMES."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 82,
+      "expected": {
+        "id": 82,
+        "name": "79 FOOD BASKET",
+        "facility_type": "Grocery Store",
+        "address": "1351 W 79TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60620",
+        "clean": 0,
+        "latitude": 41.75032112057248,
+        "longitude": -87.65818905291597,
+        "inspections": [
+          {
+            "id": "2369440",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-20 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "Fail",
+            "violations": "3. MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING - Comments: OBSERVED NO SIGNED EMPLOYEES HEALTH POLICIES.MUST PROVIDE AND MAINTAIN.(PRIORITY FOUNDATION 7-38-010) | 5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: OBSERVED NO CLEAN-UP POLICY PROCEDURE AND ITEMS FOR VOMITING AND DIARRHEA.MUST PROVIDE AND MAINTAIN.(PRIORITY FOUNDATION 7-38-005) | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED HAND WASHING SINK NOT ACCESSIBLE IN FRONT HOT/DELI PREP AREA.OBSERVED 15 OR MORE CRATES OF 2- LITERS OF POPS STORED IN FRONT OF HAND SINK.MANAGER REMOVED POP FROM AREA.MUST KEEP ACCESSIBLE AT ALL TIMES.(PRIORITY FOUNDATION 7-38-030(C) (COS) | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED NO HAND DRYING DEVICE AT FRONT HOT/DELI PREP AREA HAND SINK.MANAGER PROVIDED PAPER TOWELS AT THIS TIME.MUST MAINTAIN AT ALL TIMES.(PRIORITY FOUNDATION 7-38-030(C) (COS). | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED NO SOAP AT FRONT HOT/DELI PREP AREA HAND SINK.MANAGER PROVIDED SOAP AT THIS TIME.MUST MAINTAIN AT ALL TIMES.(PRIORITY FOUNDATION 7-38-030(C)(COS) | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED NO HAND WASHING SINK IN FRONT PREP/DISH WASHING AREA IN MEAT DEPT.MUST INSTALL A HAND SINK WITH HOT AND COLD RUNNING WATER AND MAINTAIN.(PRIORITY FOUNDATION 7-38-030(C) | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: OBSERVED NO HAND WASHING SIGNS AT HAND SINKS IN FRONT HOT/DELI PREP AREA.MUST PROVIDE AND MAINTAIN. | 23. PROPER DATE MARKING AND DISPOSITION - Comments: OBSERVED NO DATE MARKINGS ON TCS READY TO EAT FOODS BEING HELD FOR MORE THAN 24 HOURS INSIDE OF COOLERS.MUST PROVIDE AND MAINTAIN.(PRIORITY FOUNDATION 7-38-005) | 36. THERMOMETERS PROVIDED & ACCURATE - Comments: OBSERVED NO PROBE THERMOMETER FOR TAKING FOOD TEMPERATURES.MUST PROVIDE AND MAINTAIN.(PRIORITY FOUNDATION 7-38-005) | 37. FOOD PROPERLY LABELED; ORIGINAL CONTAINER - Comments: MUST LABEL FOOD STORAGE CONTAINERS WHEN FOOD IS NOT IN ORIGINAL PACKAGE. | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED EVIDENCE OF APPX. 125 OR MORE MICE DROPPINGS ON FLOOR UNDER ,AROUND AND ALONG WALL BASES IN PREP & DISH WASHING AREAS,FOOD & STORAGE SHELVES,REACH IN COOLER & FREEZERS, WALK IN COOLERS,ALL REAR & FRONT STORAGE AREAS,SERVICE COUNTER AREA.MUST REMOVE DROPPINGS.CLEAN AND SANITIZE AREAS. RECOMMENDED TO HAVE A PEST CONTROL OPERATOR TO SERVICE PREMISES ON OR AFTER 4/20/20.(PRIORITY FOUNDATION 7-38-020(A) | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: OBSERVED AN APPX. '1/2-3/4' GAP ALONG BOTTOM OF BOTH FRONT DOORS .MUST MAKE DOORS TIGHT FITTING. | 39. CONTAMINATION PREVENTED DURING FOOD PREPARATION, STORAGE & DISPLAY - Comments: MUST PROVIDE A BARRIER TO PREVENT CUSTOMERS FROM ENTERING FRONT PREP/DISH WASHING AREA AND MAINTAIN.(PRIORITY FOUNDATION 7-38-005) | 44. UTENSILS, EQUIPMENT & LINENS: PROPERLY STORED, DRIED, & HANDLED - Comments: MUST INVERT MULTIUSE UTENSILS ON STORAGE SHELVES. | 45. SINGLE-USE/SINGLE-SERVICE ARTICLES: PROPERLY STORED & USED - Comments: MUST STORE PLASTIC WEAR WITH HANDLES IN UPRIGHT POSITION. | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: MUST REMOVE RUST FROM REAR MEAT DISPLAY SHELVING UNITS . | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: MUST REPLACE MISSING FAN GUARD COVER IN MILK WALK IN COOLER. | 47. FOOD & NON-FOOD CONTACT SURFACES CLEANABLE, PROPERLY DESIGNED, CONSTRUCTED & USED - Comments: MUST ELIMINATE GROCERY BAGS USED FOR FOOD STORAGE AND PROVIDE FOOD GRADE BAGS. | 48. WAREWASHING FACILITIES: INSTALLED, MAINTAINED & USED; TEST STRIPS - Comments: OBSERVED NO CHEMICAL TEST KIT TO CHECK SANITIZING SOLUTION PPM'S.MUST PROVIDE AND MAINTAIN.(PRIORITY FOUNDATION 7-38-005) | 49. NON-FOOD/FOOD CONTACT SURFACES CLEAN - Comments: MUST CLEAN DUST BUILD UP ON CAN GOODS,DISPLAY SHELVES ON SALES FLOOR AND SERVICE COUNTER.MUST CLEAN DEBRIS BUILD UP ON POP SLEEVES IN COOLERS,PREP TABLES,SAW MACHINE,UNUSED EQUIPMENT,FAN GUARD COVERS IN WALK IN COOLERS. | 51. PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: MUST REPAIR OR REPLACE LEAKY FAUCET AT REAR 3- COMPARTMENT SINK. | 53. TOILET FACILITIES: PROPERLY CONSTRUCTED, SUPPLIED, & CLEANED - Comments: MUST PROVIDE A GARBAGE CAN WITH LID IN TOILET ROOM. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: MUST REPAIR OR REPLACE DAMAGED AND BROKEN CONCRETE FLOOR IN VESTIBULE,PREP AREA.DAMAGED AND MISSING FLOOR TILES IN WALK IN COOLERS,PREP AREA,DISH WASHING AREAS,STORAGE AREAS,TOILET ROOM AND WHERE NEEDED.MUST REMOVE CARDBOARD FROM FLOOR BEHIND SERVICE COUNTER. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: MUST CLEAN DEBRIS BUILD UP FROM FLOOR UNDER DISPLAY SHELVES,PALLETS,WALK IN COOLERS,PREP AREAS AND ALL STORAGE AREAS. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: MUST CLEAN DEBRIS BUILD UP FROM WALLS AND CEILINGS IN ALL WALK IN COOLERS AND WHERE NEEDED. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: MUST CLEAN DUST BUILD UP FROM ALL WALL VENTS THROUGHOUT. | 56. ADEQUATE VENTILATION & LIGHTING; DESIGNATED AREAS USED - Comments: MUST REPLACE BURNT OUT LIGHTS IN WALK IN COOLER,REAR STORAGE AREA,REAR PREP AREA AND WHERE NEEDED.MUST PROVIDE LIGHT SHIELDS IN FRONT HOT/DELI PREP AREA,WALK IN COOLERS. | 57. ALL FOOD EMPLOYEES HAVE FOOD HANDLER TRAINING - Comments: OBSERVED NO FOOD HANDLERS TRAINING FOR EMPLOYEE.MUST PROVIDE AND MAINTAIN."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 83,
+      "expected": {
+        "id": 83,
+        "name": "CHICAGO AVE FOOD AND DELI",
+        "facility_type": "Grocery Store",
+        "address": "5142 W CHICAGO AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60651",
+        "clean": 0,
+        "latitude": 41.89505624702991,
+        "longitude": -87.75491189738649,
+        "inspections": [
+          {
+            "id": "2369434",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-20 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 84,
+      "expected": {
+        "id": 84,
+        "name": "CAFECITO",
+        "facility_type": "Restaurant",
+        "address": "401-403 W FULLERTON PKWY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60614",
+        "clean": 0,
+        "latitude": 41.92550053743645,
+        "longitude": -87.63917880349767,
+        "inspections": [
+          {
+            "id": "2369423",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-20 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Fail",
+            "violations": "5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: FOUND PROCEDURE/PLAN ON SITE HOWEVER KIT NOT COMPLETE MISSING SOLUTION TO CONTROL NOROVIRUS FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS, ALSO MISSING MOP ETC. INSTRUCTED FACILITY TO MAINTAIN ANY APPROPRIATE SUPPLIES ON SITE. PRIORITY FOUNDATION VIOLATION 7-38-005. - | 8. HANDS CLEAN & PROPERLY WASHED - Comments: OBSERVED EMPLOYEE WRITING DATES  ON PIECE OF PAPER,WENT INSIDE THE WALK-IN COOLER RETURNED TO HIS WORK STATION GRABBED A PAIR GLOVES, GLOVED HIS HANDS A CONTINUE TO SLICE COOKED PEELED RED PEPPERS AND PUT THEM WITH PREVIOUS SLICED PEPPERS.NO HAND WASHING PRIOR TO GLOVE HANDS. HANDWASHING AND GLOVE PROCEDURE WAS DISCUSSED WITH ON DUTY MANAGER, WHICH SHE DISCUSSED ISSUE WITH EMPLOYEE. PRIORITY VIOLATION 7-38-010. | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments: NO SOAP PROVIDED AT HAND SOAP DISPENSER BY THE LOW TEMP DISHMACHINE. UPON MY REQUEST MANAGER PROVIDED SOAP AT SOAP DISPENSER, AT SAID MENTION AREA. PRIORITY FOUNDATION:7-38-030(C) | 16. FOOD-CONTACT SURFACES: CLEANED & SANITIZED - Comments: LOW TEMP DISH MACHINE IN PREP AREA, DISPENSING IMPROPER SANITIZER SOLUTION,0ppm. UNIT WAS IN USE,DISH RACK INSIDE WITH UTENSILS. INSTRUCTED TO USE THREE COMPARTENT SINK TO WASH,RINSE AND SANITIZE(100ppm).  TWO DAYS GIVEN VIOLATION:7-38-005. | 23. PROPER DATE MARKING AND DISPOSITION - Comments: OBSERVED PREPARED TCS FOODS NOT PROPERLY DATE LABELED. MUST PROPERLY DATE LABELED FOODS WITH AN EXPIRATION DATE NO LONGER THAN 7 DAYS ON ALL TCS FOODS(COOKED CHICKEN,BOILED DICED POTATOES, SLICED TOMATOES ETC).  PRIORITY FOUNDATION VIOLATION: 7-38-005. | 25. CONSUMER ADVISORY PROVIDED FOR RAW/UNDERCOOKED FOOD - Comments:  MUST PROVIDE CONSUMER ADVISORY (ON SITE), REMINDER (IN THE MENU), AND DISCLOSURE (BY THE FOOD ITEMS) FOR ALL UNDERCOOKED FOODS(EGGS).\tALSO MUST INDICATE ON MENU 'COOK TO ORDER' PHRASE FOR EGGS,STEAKS, ETC.  PRIORITY FOUNDATION VIOLATION:7-38-005.      | 36. THERMOMETERS PROVIDED & ACCURATE - Comments: STEM THERMOMETER TO BE ABLE TO CHECK FOOD TEMPERATURE NOT PROVIDED WAS GIVEN/ POINTED TO A COOK MEAT THERMOMETER. AFTER MY REQUEST AND OVER HALF HOUR LATER EMPLOYEE SHOWED ME A NEW THERMOMETER WHICH HE REMOVED FROM MANUFACTURE CASE. INSTRUCTED TO KEEP STEM THERMOMETER IN PREP AREA TO BE ABLE TO CHECK FOOD TEMPERATURE. PRIORITY FOUNDATION:7-38-005 | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: WE OBSERVED OVER 25 FLYING INSECT IN REAR PREP AREA: ON WALLS AROUND THREE COMPARTMENT SINK,ON WALL BY  MOP SINK,ON WALL BY THE ICE MACHINE AND ON WALL BY ONE COMPARTMENT SINK IN PREP AREA. FLIES INSIDE THE OPENED BAG OF DIRTY CLOTHS STORED IN THE KITCHEN. REMOVE FLYING INSECT,CLEAN AND SANITIZE MENTIONED AREA,ALSO RELOCATE BAG  WITH DIRTY CLOTH OUT OF PREP AREA AND PROVIDE CONTAINER WITH LID. PRIORITY FOUNDATION VIOLATION:7-38-020(A) | 41. WIPING CLOTHS: PROPERLY USED & STORED - Comments: NOTED DIRTY WIPING CLOTH ON PREP TABLE IN THE KITCHEN, NOT PROPERLY STORED.INSTRUCTED TO STORE WIPING CLOTH IN A  BUCKET WITH SANITIZER SOLUTION,WHEN NOT IN USE. | 43. IN-USE UTENSILS: PROPERLY STORED - Comments: ICE SCOOPS WHEN NOT IN USE MUST BE STORED IN ICE SCOOP CONTAINER THROUGHOUT  | 45. SINGLE-USE/SINGLE-SERVICE ARTICLES: PROPERLY STORED & USED - Comments: SINGLE SERVING UTENSILS(PLASTIC UTENSILS)USED  FOR CUSTOMERS MUST BE INVERT,TO MINIMIZE SOURCE OF CONTAMINATION | 51. PLUMBING INSTALLED; PROPER BACKFLOW DEVICES - Comments: LEAKING PIPE UNDER THE HANDWASHING SINK AT FRONT PREP AREA BY THE DOOR,REPAIR CAUSE | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: DUST BUILD-UP ON CEILING VENT COVER BY THE ICE MACHINE. CLEAN AND REPAIR | 57. ALL FOOD EMPLOYEES HAVE FOOD HANDLER TRAINING - Comments: NO FOOD HANDLER TRAINING CERTIFICATE PROVIDED ON SITE.INSTRUCTED TO PROVIDE.  | 58. ALLERGEN TRAINING AS REQUIRED - Comments: TWO CITY SANITATION CERTIFICATE PROVIDED ON SITE,HOWEVER ONE ALLERGEN TRAINING CERTIFICATE PROVIDE. ADDITIONAL ALLERGEN CERTIFICATE IS NEEDED"
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 85,
+      "expected": {
+        "id": 85,
+        "name": "MANNY'S GROCERY",
+        "facility_type": "Grocery Store",
+        "address": "7627 S JEFFERY BLVD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60649",
+        "clean": 0,
+        "latitude": 41.75623679739395,
+        "longitude": -87.57594020307613,
+        "inspections": [
+          {
+            "id": "2369415",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-20 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": "55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: OBSERVED STAINED CEILING TILES IN PREP, SALES, AND WASHROOM AREAS. INSTRUCTED MANAGER TO REPLACE AND MAINTAIN. OBSERVED OPENING IN FLOOR NEAR PREP TABLE IN PREP AREA. INSTRUCTED MANAGER TO REPAIR AND MAINTAIN. | 57. ALL FOOD EMPLOYEES HAVE FOOD HANDLER TRAINING - Comments: OBSERVED NO FOOD HANDLER TRAINING AVAILABLE. INSTRUCTED MANAGER TO PROVIDE FOOD HANDLER TRAINING FOR ALL EMPLOYEES."
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 86,
+      "expected": {
+        "id": 86,
+        "name": "PETE'S GRILL",
+        "facility_type": "Restaurant",
+        "address": "7557 N PAULINA ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60626",
+        "clean": 0,
+        "latitude": 42.01920330831344,
+        "longitude": -87.6735792364474,
+        "inspections": [
+          {
+            "id": "2369414",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-20 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 87,
+      "expected": {
+        "id": 87,
+        "name": "QDOBA MEXICAN EATS #2628",
+        "facility_type": "Restaurant",
+        "address": "957 W DIVERSEY PKWY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60614",
+        "clean": 0,
+        "latitude": 41.93253117623138,
+        "longitude": -87.65370947965262,
+        "inspections": [
+          {
+            "id": "2369396",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-17 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 88,
+      "expected": {
+        "id": 88,
+        "name": "LOUIS A. WEISS MEMORIAL HOSPITAL",
+        "facility_type": "Hospital",
+        "address": "4646 N MARINE DR ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60640",
+        "clean": 0,
+        "latitude": 41.96685955069908,
+        "longitude": -87.64913504207084,
+        "inspections": [
+          {
+            "id": "2369384",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-17 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "Pass w/ Conditions",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 89,
+      "expected": {
+        "id": 89,
+        "name": "THOMPSON CHICAGO HOTEL",
+        "facility_type": "Restaurant",
+        "address": "21 E BELLEVUE PL ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.90146137010766,
+        "longitude": -87.62751461949168,
+        "inspections": [
+          {
+            "id": "2369388",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-17 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "No Entry",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 90,
+      "expected": {
+        "id": 90,
+        "name": "ARCHER TOBACCO & FOOD, INC.",
+        "facility_type": "Grocery Store",
+        "address": "5904 S ARCHER AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60638",
+        "clean": 0,
+        "latitude": 41.795707832594665,
+        "longitude": -87.76313562474643,
+        "inspections": [
+          {
+            "id": "2369381",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-17 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 91,
+      "expected": {
+        "id": 91,
+        "name": "DUNKIN DONUT",
+        "facility_type": "Restaurant",
+        "address": "1127 W BRYN MAWR AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60660",
+        "clean": 0,
+        "latitude": 41.98352906115736,
+        "longitude": -87.65915456081615,
+        "inspections": [
+          {
+            "id": "2369355",
+            "risk": "Risk 2 (Medium)",
+            "inspection_date": "2020-04-17 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 92,
+      "expected": {
+        "id": 92,
+        "name": "GRAND LUX CAFE",
+        "facility_type": "Restaurant",
+        "address": "111 E ONTARIO ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.89321622302089,
+        "longitude": -87.62481244397594,
+        "inspections": [
+          {
+            "id": "2369354",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-16 00:00:00",
+            "inspection_type": "Complaint",
+            "results": "No Entry",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 93,
+      "expected": {
+        "id": 93,
+        "name": "COUSIN'S GRILL",
+        "facility_type": "Restaurant",
+        "address": "4612 W DIVERSEY AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60639",
+        "clean": 0,
+        "latitude": 41.931697427206,
+        "longitude": -87.74246720062844,
+        "inspections": [
+          {
+            "id": "2369343",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-16 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "No Entry",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 94,
+      "expected": {
+        "id": 94,
+        "name": "55TH GAS STATION INC.",
+        "facility_type": "Grocery Store",
+        "address": "5456 S PULASKI RD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60632",
+        "clean": 0,
+        "latitude": 41.79335091300274,
+        "longitude": -87.72331142877019,
+        "inspections": [
+          {
+            "id": "2369322",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-16 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 95,
+      "expected": {
+        "id": 95,
+        "name": "BENNY'S CHOPHOUSE",
+        "facility_type": "Restaurant",
+        "address": "444 N WABASH AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.89063078870265,
+        "longitude": -87.6268291273797,
+        "inspections": [
+          {
+            "id": "2369324",
+            "risk": "Risk 1 (High)",
+            "inspection_date": "2020-04-16 00:00:00",
+            "inspection_type": "Canvass",
+            "results": "Out of Business",
+            "violations": ""
+          }
+        ]
+      }
+    },
+    {
+      "inputs": 96,
+      "expected": {
+        "id": 96,
+        "name": "SHELL",
+        "facility_type": "Grocery Store",
+        "address": "4647 S PULASKI RD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60632",
+        "clean": 0,
+        "latitude": 41.80831651575642,
+        "longitude": -87.72345395836638,
+        "inspections": [
+          {
+            "id": "2369319",
+            "risk": "Risk 3 (Low)",
+            "inspection_date": "2020-04-16 00:00:00",
+            "inspection_type": "Canvass Re-Inspection",
+            "results": "Pass w/ Conditions",
+            "violations": "5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: 2-501.11: NO PROCEDURE IN PLACE FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS. INSTD TO PROVIDE PROCEDURE AND NECESSARY SUPPLIES EFFECTIVE AGAINST NOROVIRS. PRIORITY FOUNDATION 7-38-005. | 10. ADEQUATE HANDWASHING SINKS PROPERLY SUPPLIED AND ACCESSIBLE - Comments:  5-204.11: NO HANDWASHING SINK IN WAREWASHING AREA. INSTD TO PROVIDE HANDWASH SINK UNDER CITY PRESSURE IN SAME AREA WITH 100F-120F WATER. PRIORITY FOUNDATION 7-38-030(C)."
+          }
+        ]
+      }
+    }
+  ]
+}

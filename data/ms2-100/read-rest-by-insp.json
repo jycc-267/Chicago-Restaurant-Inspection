@@ -1,0 +1,1491 @@
+{
+  "get_path": "restaurants/by-inspection",
+  "response": 200,
+  "tests": [
+    {
+      "inputs": "2370283",
+      "expected": {
+        "id": 1,
+        "name": "CHICAGO WINGS AROUND THE WORLD",
+        "facility_type": "Restaurant",
+        "address": "748 W 61ST ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60621",
+        "clean": 0,
+        "latitude": 41.783502980089736,
+        "longitude": -87.64438637632864
+      }
+    },
+    {
+      "inputs": "2370260",
+      "expected": {
+        "id": 2,
+        "name": "#1 DELI",
+        "facility_type": "Grocery Store",
+        "address": "6901 S NORMAL BLVD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60621",
+        "clean": 0,
+        "latitude": 41.76886618832226,
+        "longitude": -87.63709545616062
+      }
+    },
+    {
+      "inputs": "2370276",
+      "expected": {
+        "id": 3,
+        "name": "ROUTE 69 PALACE",
+        "facility_type": "",
+        "address": "808 W 69TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60621",
+        "clean": 0,
+        "latitude": 41.76894196327128,
+        "longitude": -87.64490819463862
+      }
+    },
+    {
+      "inputs": "2370218",
+      "expected": {
+        "id": 4,
+        "name": "HYATT HOUSE/HYATT PLACE AND FOOD CT",
+        "facility_type": "",
+        "address": "1835 W HARRISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60612",
+        "clean": 0,
+        "latitude": 41.87398795331432,
+        "longitude": -87.67299740933659
+      }
+    },
+    {
+      "inputs": "2370195",
+      "expected": {
+        "id": 5,
+        "name": "TAYLORMADE QUE",
+        "facility_type": "Restaurant",
+        "address": "6717 S HALSTED ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60621",
+        "clean": 0,
+        "latitude": 41.77193273410113,
+        "longitude": -87.64443484974524
+      }
+    },
+    {
+      "inputs": "2370179",
+      "expected": {
+        "id": 6,
+        "name": "CELIS NUTRICION",
+        "facility_type": "Restaurant",
+        "address": "3344 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.779014264743914,
+        "longitude": -87.70734216168728
+      }
+    },
+    {
+      "inputs": "2369871",
+      "expected": {
+        "id": 6,
+        "name": "CELIS NUTRICION",
+        "facility_type": "Restaurant",
+        "address": "3344 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.779014264743914,
+        "longitude": -87.70734216168728
+      }
+    },
+    {
+      "inputs": "2370175",
+      "expected": {
+        "id": 7,
+        "name": "MOBIL GAS STATION",
+        "facility_type": "Grocery Store",
+        "address": "7059 S ASHLAND AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60636",
+        "clean": 0,
+        "latitude": 41.765004259431706,
+        "longitude": -87.66365411321728
+      }
+    },
+    {
+      "inputs": "2370117",
+      "expected": {
+        "id": 8,
+        "name": "S & G GRILL",
+        "facility_type": "Restaurant",
+        "address": "3000 N LINCOLN AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60657",
+        "clean": 0,
+        "latitude": 41.93612294441291,
+        "longitude": -87.66391410739975
+      }
+    },
+    {
+      "inputs": "2370106",
+      "expected": {
+        "id": 9,
+        "name": "KC'S ACADEMY OF EARLY CHILDHOOD EDUCATION, INC",
+        "facility_type": "Daycare Above and Under 2 Years",
+        "address": "3110 N SHEFFIELD AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60657",
+        "clean": 0,
+        "latitude": 41.93842674063546,
+        "longitude": -87.65420203147254
+      }
+    },
+    {
+      "inputs": "2370099",
+      "expected": {
+        "id": 10,
+        "name": "JIMMYS BEST MIXED GRILL",
+        "facility_type": "Restaurant",
+        "address": "200 W 103RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60628",
+        "clean": 0,
+        "latitude": 41.707210358472786,
+        "longitude": -87.62835881151437
+      }
+    },
+    {
+      "inputs": "2370058",
+      "expected": {
+        "id": 11,
+        "name": "MARIANO'S #8538",
+        "facility_type": "Grocery Store",
+        "address": "3030 N BROADWAY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60657",
+        "clean": 0,
+        "latitude": 41.93733843730944,
+        "longitude": -87.64445647150518
+      }
+    },
+    {
+      "inputs": "2370049",
+      "expected": {
+        "id": 12,
+        "name": "TWO  MILE LLC",
+        "facility_type": "",
+        "address": "9907 S WALDEN PKWY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60643",
+        "clean": 0,
+        "latitude": 41.71362985424284,
+        "longitude": -87.66754400022322
+      }
+    },
+    {
+      "inputs": "2370035",
+      "expected": {
+        "id": 13,
+        "name": "HAROLD'S CHICKEN SHACK #27",
+        "facility_type": "Restaurant",
+        "address": "10259 S HALSTED ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60628",
+        "clean": 0,
+        "latitude": 41.707010735306305,
+        "longitude": -87.64269046563244
+      }
+    },
+    {
+      "inputs": "2370022",
+      "expected": {
+        "id": 14,
+        "name": "IHOP",
+        "facility_type": "Restaurant",
+        "address": "7547-7549 S CICERO AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60652",
+        "clean": 0,
+        "latitude": 41.755233206640504,
+        "longitude": -87.74140580966458
+      }
+    },
+    {
+      "inputs": "2369973",
+      "expected": {
+        "id": 15,
+        "name": "WALGREENS #1496",
+        "facility_type": "Grocery Store",
+        "address": "6310 N NAGLE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60646",
+        "clean": 0,
+        "latitude": 41.99592392276426,
+        "longitude": -87.78763799175523
+      }
+    },
+    {
+      "inputs": "2369963",
+      "expected": {
+        "id": 16,
+        "name": "SHEIKA FOOD MARKET",
+        "facility_type": "Grocery Store",
+        "address": "2902 W MADISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60612",
+        "clean": 0,
+        "latitude": 41.8811600061328,
+        "longitude": -87.69893042924681
+      }
+    },
+    {
+      "inputs": "2369954",
+      "expected": {
+        "id": 17,
+        "name": "ALINA PHARMACY",
+        "facility_type": "Grocery Store",
+        "address": "1547 W CHICAGO AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60642",
+        "clean": 0,
+        "latitude": 41.89597324304578,
+        "longitude": -87.66674388868744
+      }
+    },
+    {
+      "inputs": "2369948",
+      "expected": {
+        "id": 18,
+        "name": "SHARKS",
+        "facility_type": "Restaurant",
+        "address": "338 S CALIFORNIA AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60612",
+        "clean": 0,
+        "latitude": 41.87621066522763,
+        "longitude": -87.69630549752043
+      }
+    },
+    {
+      "inputs": "2369934",
+      "expected": {
+        "id": 19,
+        "name": "MINI MERCADO LOS PICACHOS",
+        "facility_type": "",
+        "address": "6001 S KEDZIE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.784338681497566,
+        "longitude": -87.70314406491092
+      }
+    },
+    {
+      "inputs": "2369942",
+      "expected": {
+        "id": 20,
+        "name": "KING PHO PLUS",
+        "facility_type": "Restaurant",
+        "address": "5414-5416 W DEVON AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60646",
+        "clean": 0,
+        "latitude": 41.997438286068146,
+        "longitude": -87.76439911874026
+      }
+    },
+    {
+      "inputs": "2369933",
+      "expected": {
+        "id": 21,
+        "name": "B & A FOOD",
+        "facility_type": "Grocery Store",
+        "address": "6229 S KEDZIE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.77994387212033,
+        "longitude": -87.70301608318445
+      }
+    },
+    {
+      "inputs": "2369924",
+      "expected": {
+        "id": 22,
+        "name": "AROUND THE WAY MINI MART",
+        "facility_type": "Grocery Store",
+        "address": "158 N LARAMIE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60644",
+        "clean": 0,
+        "latitude": 41.883966609047185,
+        "longitude": -87.75534386759125
+      }
+    },
+    {
+      "inputs": "2369893",
+      "expected": {
+        "id": 23,
+        "name": "LATIN AMERICAN REST & LOUNGE",
+        "facility_type": "Restaurant",
+        "address": "2743 W DIVISION ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60622",
+        "clean": 0,
+        "latitude": 41.90282132997605,
+        "longitude": -87.69614329943664
+      }
+    },
+    {
+      "inputs": "2369901",
+      "expected": {
+        "id": 24,
+        "name": "Azusa Liquors Inc.",
+        "facility_type": "Grocery Store",
+        "address": "4411-4413 N BROADWAY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60640",
+        "clean": 0,
+        "latitude": 41.96215337650536,
+        "longitude": -87.65523520127385
+      }
+    },
+    {
+      "inputs": "2369783",
+      "expected": {
+        "id": 24,
+        "name": "Azusa Liquors Inc.",
+        "facility_type": "Grocery Store",
+        "address": "4411-4413 N BROADWAY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60640",
+        "clean": 0,
+        "latitude": 41.96215337650536,
+        "longitude": -87.65523520127385
+      }
+    },
+    {
+      "inputs": "2369879",
+      "expected": {
+        "id": 25,
+        "name": "YOU BUY WE FRY INC.",
+        "facility_type": "Grocery Store",
+        "address": "5627 W MADISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60644",
+        "clean": 0,
+        "latitude": 41.88011861685613,
+        "longitude": -87.7660025098329
+      }
+    },
+    {
+      "inputs": "2369894",
+      "expected": {
+        "id": 26,
+        "name": "JIMMY'S FOOD & DELI,INC",
+        "facility_type": "Grocery Store",
+        "address": "5601 W MADISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60644",
+        "clean": 0,
+        "latitude": 41.880135062255434,
+        "longitude": -87.7649424467103
+      }
+    },
+    {
+      "inputs": "2369883",
+      "expected": {
+        "id": 27,
+        "name": "MAPLEWOOD FOOD MARKET",
+        "facility_type": "",
+        "address": "2525 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.779096350315285,
+        "longitude": -87.68723997712125
+      }
+    },
+    {
+      "inputs": "2369881",
+      "expected": {
+        "id": 28,
+        "name": "JUN HOE TOY RESTAURANT",
+        "facility_type": "",
+        "address": "2550 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.779304842029006,
+        "longitude": -87.68812936757858
+      }
+    },
+    {
+      "inputs": "2369876",
+      "expected": {
+        "id": 29,
+        "name": "GOODY MART",
+        "facility_type": "",
+        "address": "2559 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.779078756349676,
+        "longitude": -87.68846026679678
+      }
+    },
+    {
+      "inputs": "2369862",
+      "expected": {
+        "id": 30,
+        "name": "7-ELEVEN",
+        "facility_type": "Grocery Store",
+        "address": "4346 N KIMBALL AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60618",
+        "clean": 0,
+        "latitude": 41.960731356474305,
+        "longitude": -87.71327613356749
+      }
+    },
+    {
+      "inputs": "2369870",
+      "expected": {
+        "id": 31,
+        "name": "DONA",
+        "facility_type": "Restaurant",
+        "address": "944-946 N ORLEANS ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60610",
+        "clean": 0,
+        "latitude": 41.90033472432364,
+        "longitude": -87.63746309536123
+      }
+    },
+    {
+      "inputs": "2369845",
+      "expected": {
+        "id": 32,
+        "name": "WASABI",
+        "facility_type": "Restaurant",
+        "address": "2101-2111 N MILWAUKEE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60647",
+        "clean": 0,
+        "latitude": 41.91952161427481,
+        "longitude": -87.6915871617949
+      }
+    },
+    {
+      "inputs": "2369855",
+      "expected": {
+        "id": 33,
+        "name": "Chicago Prep Master Tenant LLC",
+        "facility_type": "Shared Kitchen",
+        "address": "5801 W Dickens AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60639",
+        "clean": 0,
+        "latitude": 41.91786924215764,
+        "longitude": -87.77069733431132
+      }
+    },
+    {
+      "inputs": "2369830",
+      "expected": {
+        "id": 34,
+        "name": "Grand noble Wine And Spirits",
+        "facility_type": "Grocery Store",
+        "address": "1408 W GRAND AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60642",
+        "clean": 0,
+        "latitude": 41.89113344338077,
+        "longitude": -87.66267246403426
+      }
+    },
+    {
+      "inputs": "2369809",
+      "expected": {
+        "id": 35,
+        "name": "COTTAGE FOOD MART",
+        "facility_type": "Grocery Store",
+        "address": "8209 S COTTAGE GROVE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60619",
+        "clean": 0,
+        "latitude": 41.745482074149756,
+        "longitude": -87.60492840136864
+      }
+    },
+    {
+      "inputs": "2369795",
+      "expected": {
+        "id": 36,
+        "name": "CVS/PHARMACY #11090",
+        "facility_type": "Grocery Store",
+        "address": "670-678 N WELLS ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60654",
+        "clean": 0,
+        "latitude": 41.89446120388508,
+        "longitude": -87.63429113921268
+      }
+    },
+    {
+      "inputs": "2369797",
+      "expected": {
+        "id": 37,
+        "name": "McDONALD'S",
+        "facility_type": "Restaurant",
+        "address": "186 W ADAMS ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60603",
+        "clean": 0,
+        "latitude": 41.87949996011278,
+        "longitude": -87.63335353982716
+      }
+    },
+    {
+      "inputs": "2369788",
+      "expected": {
+        "id": 38,
+        "name": "TAQUERIA VALPARAISO",
+        "facility_type": "Restaurant",
+        "address": "10500 S WESTERN AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60643",
+        "clean": 0,
+        "latitude": 41.70263854931954,
+        "longitude": -87.68164578260658
+      }
+    },
+    {
+      "inputs": "2369749",
+      "expected": {
+        "id": 39,
+        "name": "STARBUCKS COFFEE#48513",
+        "facility_type": "Restaurant",
+        "address": "469 W CHICAGO AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60654",
+        "clean": 0,
+        "latitude": 41.89638650437739,
+        "longitude": -87.64127960011128
+      }
+    },
+    {
+      "inputs": "2369748",
+      "expected": {
+        "id": 40,
+        "name": "SHELL",
+        "facility_type": "SERVICE GAS STATION",
+        "address": "1551 W NORTH AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60622",
+        "clean": 0,
+        "latitude": 41.91052635223628,
+        "longitude": -87.66729841079488
+      }
+    },
+    {
+      "inputs": "2369753",
+      "expected": {
+        "id": 41,
+        "name": "STARBUCKS COFFEE#27509",
+        "facility_type": "Restaurant",
+        "address": "1932 N MILWAUKEE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60647",
+        "clean": 0,
+        "latitude": 41.916523129352036,
+        "longitude": -87.68716978587564
+      }
+    },
+    {
+      "inputs": "2369752",
+      "expected": {
+        "id": 42,
+        "name": "WELLS STREET POPCORN",
+        "facility_type": "Restaurant",
+        "address": "2804 N CLARK ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60657",
+        "clean": 0,
+        "latitude": 41.932920973712655,
+        "longitude": -87.6451545476329
+      }
+    },
+    {
+      "inputs": "2369740",
+      "expected": {
+        "id": 43,
+        "name": "SIDE PROJECT COFFEE LLC",
+        "facility_type": "Restaurant",
+        "address": "5139 N DAMEN AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60625",
+        "clean": 0,
+        "latitude": 41.97596978252027,
+        "longitude": -87.6792536619616
+      }
+    },
+    {
+      "inputs": "2369732",
+      "expected": {
+        "id": 44,
+        "name": "JO'S HALLMARK",
+        "facility_type": "Grocery Store",
+        "address": "2943 W ADDISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60618",
+        "clean": 0,
+        "latitude": 41.94654039589746,
+        "longitude": -87.7022412642198
+      }
+    },
+    {
+      "inputs": "2369728",
+      "expected": {
+        "id": 45,
+        "name": "LOWCOUNTRY 2",
+        "facility_type": "Restaurant",
+        "address": "1132 S WABASH AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60605",
+        "clean": 0,
+        "latitude": 41.86826262122412,
+        "longitude": -87.62598811966616
+      }
+    },
+    {
+      "inputs": "2369718",
+      "expected": {
+        "id": 46,
+        "name": "NIKO'S GYROS",
+        "facility_type": "Restaurant",
+        "address": "2775 N ELSTON AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60647",
+        "clean": 0,
+        "latitude": 41.93213996955802,
+        "longitude": -87.68757393808554
+      }
+    },
+    {
+      "inputs": "2369713",
+      "expected": {
+        "id": 47,
+        "name": "CITGO GAS STATION",
+        "facility_type": "Grocery Store",
+        "address": "3050 N PULASKI RD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60641",
+        "clean": 0,
+        "latitude": 41.93696637018973,
+        "longitude": -87.72727226802225
+      }
+    },
+    {
+      "inputs": "2369702",
+      "expected": {
+        "id": 48,
+        "name": "ELSTON NUGGET INC",
+        "facility_type": "Restaurant",
+        "address": "2406 W DIVERSEY AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60647",
+        "clean": 0,
+        "latitude": 41.932280853102945,
+        "longitude": -87.68819005751767
+      }
+    },
+    {
+      "inputs": "2369688",
+      "expected": {
+        "id": 49,
+        "name": "DRAGON BOWL",
+        "facility_type": "Restaurant",
+        "address": "220 W 31ST ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60616",
+        "clean": 0,
+        "latitude": 41.838333031882655,
+        "longitude": -87.63257553845861
+      }
+    },
+    {
+      "inputs": "2369654",
+      "expected": {
+        "id": 50,
+        "name": "D ARCO'S PIZZA INC.",
+        "facility_type": "Restaurant",
+        "address": "2819 W 63RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60629",
+        "clean": 0,
+        "latitude": 41.778994736359884,
+        "longitude": -87.69421036159837
+      }
+    },
+    {
+      "inputs": "2369659",
+      "expected": {
+        "id": 51,
+        "name": "STAX CAFE",
+        "facility_type": "Restaurant",
+        "address": "522 N MILWAUKEE AVE ",
+        "city": "CHICAGO",
+        "state": "",
+        "zip": "60642",
+        "clean": 0,
+        "latitude": 41.89173286514732,
+        "longitude": -87.64865419293943
+      }
+    },
+    {
+      "inputs": "2369646",
+      "expected": {
+        "id": 52,
+        "name": "CVS/PHARMACY #8511",
+        "facility_type": "Grocery Store",
+        "address": "7858 S HALSTED ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60620",
+        "clean": 0,
+        "latitude": 41.750731568363506,
+        "longitude": -87.64419244328059
+      }
+    },
+    {
+      "inputs": "2369645",
+      "expected": {
+        "id": 53,
+        "name": "HI-VIBE",
+        "facility_type": "Restaurant",
+        "address": "942-944 W HURON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60642",
+        "clean": 0,
+        "latitude": 41.89513208866283,
+        "longitude": -87.65181321584753
+      }
+    },
+    {
+      "inputs": "2369627",
+      "expected": {
+        "id": 54,
+        "name": "TACO BURRITO KING",
+        "facility_type": "Restaurant",
+        "address": "811 W JACKSON BLVD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60607",
+        "clean": 0,
+        "latitude": 41.87783013580039,
+        "longitude": -87.64773606109019
+      }
+    },
+    {
+      "inputs": "2369632",
+      "expected": {
+        "id": 55,
+        "name": "STARBUCKS COFFEE #10955",
+        "facility_type": "Restaurant",
+        "address": "38 E ONTARIO ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.89340410169577,
+        "longitude": -87.6266968151909
+      }
+    },
+    {
+      "inputs": "2369620",
+      "expected": {
+        "id": 56,
+        "name": "SNAP KITCHEN",
+        "facility_type": "Restaurant",
+        "address": "750 N RUSH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.89645531336705,
+        "longitude": -87.62564516650414
+      }
+    },
+    {
+      "inputs": "2369618",
+      "expected": {
+        "id": 57,
+        "name": "GYRO GRILL MG, INC",
+        "facility_type": "Restaurant",
+        "address": "3660 W 111TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60655",
+        "clean": 0,
+        "latitude": 41.69148547162192,
+        "longitude": -87.71303008858897
+      }
+    },
+    {
+      "inputs": "2369621",
+      "expected": {
+        "id": 58,
+        "name": "THE HALAL GUYS",
+        "facility_type": "Restaurant",
+        "address": "180 N WABASH AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60601",
+        "clean": 0,
+        "latitude": 41.885353703982936,
+        "longitude": -87.62641328540737
+      }
+    },
+    {
+      "inputs": "2369615",
+      "expected": {
+        "id": 59,
+        "name": "FAMILY DOLLAR STORE # 7178",
+        "facility_type": "Grocery Store",
+        "address": "8908 S ASHLAND AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60620",
+        "clean": 0,
+        "latitude": 41.73170789982645,
+        "longitude": -87.66309220937248
+      }
+    },
+    {
+      "inputs": "2369596",
+      "expected": {
+        "id": 60,
+        "name": "Harold's Chicken #36",
+        "facility_type": "Restaurant",
+        "address": "1361 N MILWAUKEE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60622",
+        "clean": 0,
+        "latitude": 41.906663977179086,
+        "longitude": -87.67142950595843
+      }
+    },
+    {
+      "inputs": "2369587",
+      "expected": {
+        "id": 61,
+        "name": "SENOR PAN CAFE",
+        "facility_type": "Restaurant",
+        "address": "4612 W FULLERTON AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60639",
+        "clean": 0,
+        "latitude": 41.92440234177882,
+        "longitude": -87.74231825957612
+      }
+    },
+    {
+      "inputs": "2369592",
+      "expected": {
+        "id": 62,
+        "name": "WENDY'S",
+        "facility_type": "Restaurant",
+        "address": "8740 S LAFAYETTE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60620",
+        "clean": 0,
+        "latitude": 41.734880618955415,
+        "longitude": -87.6255519405575
+      }
+    },
+    {
+      "inputs": "2369580",
+      "expected": {
+        "id": 63,
+        "name": "STARBUCKS COFFEE #9426",
+        "facility_type": "Restaurant",
+        "address": "520 N OGDEN AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60642",
+        "clean": 0,
+        "latitude": 41.89176977820589,
+        "longitude": -87.65860461424934
+      }
+    },
+    {
+      "inputs": "2369555",
+      "expected": {
+        "id": 64,
+        "name": "MADISON FOOD & LIQUOR",
+        "facility_type": "Grocery Store",
+        "address": "5069 W MADISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60644",
+        "clean": 0,
+        "latitude": 41.880296089471855,
+        "longitude": -87.7524941981518
+      }
+    },
+    {
+      "inputs": "2369554",
+      "expected": {
+        "id": 64,
+        "name": "MADISON FOOD & LIQUOR",
+        "facility_type": "Grocery Store",
+        "address": "5069 W MADISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60644",
+        "clean": 0,
+        "latitude": 41.880296089471855,
+        "longitude": -87.7524941981518
+      }
+    },
+    {
+      "inputs": "2369561",
+      "expected": {
+        "id": 65,
+        "name": "POPEYE'S FRIED CHICKEN",
+        "facility_type": "Restaurant",
+        "address": "7430 S STONY ISLAND AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60649",
+        "clean": 0,
+        "latitude": 41.7597206413212,
+        "longitude": -87.5863104488657
+      }
+    },
+    {
+      "inputs": "2369525",
+      "expected": {
+        "id": 66,
+        "name": "7-ELEVEN #33920A",
+        "facility_type": "Grocery Store",
+        "address": "3152 W 111TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60655",
+        "clean": 0,
+        "latitude": 41.69168074856247,
+        "longitude": -87.70051617452317
+      }
+    },
+    {
+      "inputs": "2369526",
+      "expected": {
+        "id": 67,
+        "name": "DIALA GROCERY",
+        "facility_type": "Grocery Store",
+        "address": "1935 W FOSTER AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60640",
+        "clean": 0,
+        "latitude": 41.9759453108431,
+        "longitude": -87.6778086487862
+      }
+    },
+    {
+      "inputs": "2369517",
+      "expected": {
+        "id": 68,
+        "name": "CORCORANS PANTRY INC",
+        "facility_type": "Grocery Store",
+        "address": "1105 W BRYN MAWR AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60660",
+        "clean": 0,
+        "latitude": 41.98354478518444,
+        "longitude": -87.65826767250596
+      }
+    },
+    {
+      "inputs": "2369518",
+      "expected": {
+        "id": 69,
+        "name": "MCDONALD'S",
+        "facility_type": "Restaurant",
+        "address": "1657 W 95TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60643",
+        "clean": 0,
+        "latitude": 41.721073142167896,
+        "longitude": -87.66489837339608
+      }
+    },
+    {
+      "inputs": "2369507",
+      "expected": {
+        "id": 70,
+        "name": "FAT CAT",
+        "facility_type": "Restaurant",
+        "address": "4840 N BROADWAY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60640",
+        "clean": 0,
+        "latitude": 41.970177996889234,
+        "longitude": -87.65984900729137
+      }
+    },
+    {
+      "inputs": "2369490",
+      "expected": {
+        "id": 71,
+        "name": "HAROLD'S CHICKEN SHACK #14",
+        "facility_type": "Restaurant",
+        "address": "1208 E 53RD ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60615",
+        "clean": 0,
+        "latitude": 41.799570005698875,
+        "longitude": -87.5962391078313
+      }
+    },
+    {
+      "inputs": "2369486",
+      "expected": {
+        "id": 72,
+        "name": "CHICK-FIL-A MICHIGAN AVENUE",
+        "facility_type": "Restaurant",
+        "address": "500 N MICHIGAN AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.890971229645146,
+        "longitude": -87.6242769455621
+      }
+    },
+    {
+      "inputs": "2369488",
+      "expected": {
+        "id": 73,
+        "name": "SURF'S OLD TOWN",
+        "facility_type": "Restaurant",
+        "address": "1143 N WELLS ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60610",
+        "clean": 0,
+        "latitude": 41.903371951075556,
+        "longitude": -87.6343141547651
+      }
+    },
+    {
+      "inputs": "2369483",
+      "expected": {
+        "id": 74,
+        "name": "MR G'S FOOD & LIQUOR",
+        "facility_type": "Grocery Store",
+        "address": "332-334 E 58TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60637",
+        "clean": 0,
+        "latitude": 41.789429857455325,
+        "longitude": -87.61784033976139
+      }
+    },
+    {
+      "inputs": "2369471",
+      "expected": {
+        "id": 75,
+        "name": "HUMBOLDT HAUS DELI & LIQUOR",
+        "facility_type": "Liquor",
+        "address": "2956-2958 W NORTH AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60647",
+        "clean": 0,
+        "latitude": 41.91028581429125,
+        "longitude": -87.70137268454522
+      }
+    },
+    {
+      "inputs": "2369469",
+      "expected": {
+        "id": 76,
+        "name": "BOULEVARD DELI & LIQUOR",
+        "facility_type": "Restaurant",
+        "address": "2956-2958 W NORTH AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60647",
+        "clean": 0,
+        "latitude": 41.91028581429125,
+        "longitude": -87.70137268454522
+      }
+    },
+    {
+      "inputs": "2369464",
+      "expected": {
+        "id": 77,
+        "name": "TAQUERIA PRIMO CHUKIS UPTOWN",
+        "facility_type": "Restaurant",
+        "address": "1708-1710 W LAWRENCE AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60640",
+        "clean": 0,
+        "latitude": 41.968966500431776,
+        "longitude": -87.67143451275741
+      }
+    },
+    {
+      "inputs": "2369462",
+      "expected": {
+        "id": 78,
+        "name": "DO RITE DONUTS",
+        "facility_type": "Restaurant",
+        "address": "233 E ERIE ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.89406316257156,
+        "longitude": -87.62139584024656
+      }
+    },
+    {
+      "inputs": "2369461",
+      "expected": {
+        "id": 79,
+        "name": "WINGSTOP",
+        "facility_type": "Restaurant",
+        "address": "1712 W 119TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60643",
+        "clean": 0,
+        "latitude": 41.6775910650455,
+        "longitude": -87.66447899825711
+      }
+    },
+    {
+      "inputs": "2369452",
+      "expected": {
+        "id": 80,
+        "name": "BAR-B-QUE KINGDOM, LLC",
+        "facility_type": "Restaurant",
+        "address": "3715 W ROOSEVELT RD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60624",
+        "clean": 0,
+        "latitude": 41.86615080575098,
+        "longitude": -87.71852063495605
+      }
+    },
+    {
+      "inputs": "2369443",
+      "expected": {
+        "id": 81,
+        "name": "MADISON FOOD MART, INC",
+        "facility_type": "Grocery Store",
+        "address": "5402 W MADISON ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60644",
+        "clean": 0,
+        "latitude": 41.88041576281324,
+        "longitude": -87.76027851465174
+      }
+    },
+    {
+      "inputs": "2369440",
+      "expected": {
+        "id": 82,
+        "name": "79 FOOD BASKET",
+        "facility_type": "Grocery Store",
+        "address": "1351 W 79TH ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60620",
+        "clean": 0,
+        "latitude": 41.75032112057248,
+        "longitude": -87.65818905291597
+      }
+    },
+    {
+      "inputs": "2369434",
+      "expected": {
+        "id": 83,
+        "name": "CHICAGO AVE FOOD AND DELI",
+        "facility_type": "Grocery Store",
+        "address": "5142 W CHICAGO AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60651",
+        "clean": 0,
+        "latitude": 41.89505624702991,
+        "longitude": -87.75491189738649
+      }
+    },
+    {
+      "inputs": "2369423",
+      "expected": {
+        "id": 84,
+        "name": "CAFECITO",
+        "facility_type": "Restaurant",
+        "address": "401-403 W FULLERTON PKWY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60614",
+        "clean": 0,
+        "latitude": 41.92550053743645,
+        "longitude": -87.63917880349767
+      }
+    },
+    {
+      "inputs": "2369415",
+      "expected": {
+        "id": 85,
+        "name": "MANNY'S GROCERY",
+        "facility_type": "Grocery Store",
+        "address": "7627 S JEFFERY BLVD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60649",
+        "clean": 0,
+        "latitude": 41.75623679739395,
+        "longitude": -87.57594020307613
+      }
+    },
+    {
+      "inputs": "2369414",
+      "expected": {
+        "id": 86,
+        "name": "PETE'S GRILL",
+        "facility_type": "Restaurant",
+        "address": "7557 N PAULINA ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60626",
+        "clean": 0,
+        "latitude": 42.01920330831344,
+        "longitude": -87.6735792364474
+      }
+    },
+    {
+      "inputs": "2369396",
+      "expected": {
+        "id": 87,
+        "name": "QDOBA MEXICAN EATS #2628",
+        "facility_type": "Restaurant",
+        "address": "957 W DIVERSEY PKWY ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60614",
+        "clean": 0,
+        "latitude": 41.93253117623138,
+        "longitude": -87.65370947965262
+      }
+    },
+    {
+      "inputs": "2369384",
+      "expected": {
+        "id": 88,
+        "name": "LOUIS A. WEISS MEMORIAL HOSPITAL",
+        "facility_type": "Hospital",
+        "address": "4646 N MARINE DR ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60640",
+        "clean": 0,
+        "latitude": 41.96685955069908,
+        "longitude": -87.64913504207084
+      }
+    },
+    {
+      "inputs": "2369388",
+      "expected": {
+        "id": 89,
+        "name": "THOMPSON CHICAGO HOTEL",
+        "facility_type": "Restaurant",
+        "address": "21 E BELLEVUE PL ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.90146137010766,
+        "longitude": -87.62751461949168
+      }
+    },
+    {
+      "inputs": "2369381",
+      "expected": {
+        "id": 90,
+        "name": "ARCHER TOBACCO & FOOD, INC.",
+        "facility_type": "Grocery Store",
+        "address": "5904 S ARCHER AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60638",
+        "clean": 0,
+        "latitude": 41.795707832594665,
+        "longitude": -87.76313562474643
+      }
+    },
+    {
+      "inputs": "2369355",
+      "expected": {
+        "id": 91,
+        "name": "DUNKIN DONUT",
+        "facility_type": "Restaurant",
+        "address": "1127 W BRYN MAWR AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60660",
+        "clean": 0,
+        "latitude": 41.98352906115736,
+        "longitude": -87.65915456081615
+      }
+    },
+    {
+      "inputs": "2369354",
+      "expected": {
+        "id": 92,
+        "name": "GRAND LUX CAFE",
+        "facility_type": "Restaurant",
+        "address": "111 E ONTARIO ST ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.89321622302089,
+        "longitude": -87.62481244397594
+      }
+    },
+    {
+      "inputs": "2369343",
+      "expected": {
+        "id": 93,
+        "name": "COUSIN'S GRILL",
+        "facility_type": "Restaurant",
+        "address": "4612 W DIVERSEY AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60639",
+        "clean": 0,
+        "latitude": 41.931697427206,
+        "longitude": -87.74246720062844
+      }
+    },
+    {
+      "inputs": "2369322",
+      "expected": {
+        "id": 94,
+        "name": "55TH GAS STATION INC.",
+        "facility_type": "Grocery Store",
+        "address": "5456 S PULASKI RD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60632",
+        "clean": 0,
+        "latitude": 41.79335091300274,
+        "longitude": -87.72331142877019
+      }
+    },
+    {
+      "inputs": "2369324",
+      "expected": {
+        "id": 95,
+        "name": "BENNY'S CHOPHOUSE",
+        "facility_type": "Restaurant",
+        "address": "444 N WABASH AVE ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60611",
+        "clean": 0,
+        "latitude": 41.89063078870265,
+        "longitude": -87.6268291273797
+      }
+    },
+    {
+      "inputs": "2369319",
+      "expected": {
+        "id": 96,
+        "name": "SHELL",
+        "facility_type": "Grocery Store",
+        "address": "4647 S PULASKI RD ",
+        "city": "CHICAGO",
+        "state": "IL",
+        "zip": "60632",
+        "clean": 0,
+        "latitude": 41.80831651575642,
+        "longitude": -87.72345395836638
+      }
+    }
+  ]
+}

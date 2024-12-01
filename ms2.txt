@@ -1,0 +1,14 @@
+Team members: Yu Chan Jimmy Chien
+
+
+Functionality incomplete:
+
+
+Estimated hours spent: 20 hours
+
+
+Parts you got stuck on (if any): Stuck on branching the matching type: dealing with an edge case where a tweet fits two restaurant_ids by geo information.
+
+
+How work was partitioned: Done by myself
+

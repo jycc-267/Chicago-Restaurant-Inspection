@@ -1,0 +1,547 @@
+{
+  "get_path": "tweets",
+  "response": 200,
+  "tests": [
+    {
+      "inputs": "56",
+      "expected": [
+        {
+          "tkey": "2016-05-06_23:20:28-maloutVC",
+          "match": "geo"
+        },
+        {
+          "tkey": "2016-05-22_14:45:19-lizdalvarez",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-19_18:24:39-GDKN",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "42",
+      "expected": [
+        {
+          "tkey": "2016-04-25_19:58:22-bluesFauve",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-03_13:44:57-_LilSallyWalker",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-15_22:42:08-bluebirdtrini",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-18_13:24:19-ada0eumenis",
+          "match": "geo"
+        }
+      ]
+    },
+    {
+      "inputs": "17",
+      "expected": [
+        {
+          "tkey": "2016-04-26_10:00:43-giuliaaa_127",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-01_03:18:37-MLBWhiteSoxShop",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-02_14:50:49-NSURECORDS",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-18_16:19:09-cassierole3",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "91",
+      "expected": [
+        {
+          "tkey": "2016-04-26_18:41:59-ChiJobsCouncil",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-10_17:25:48-BSer_For_Life",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-20_00:00:04-isMetraLate",
+          "match": "geo"
+        }
+      ]
+    },
+    {
+      "inputs": "70",
+      "expected": [
+        {
+          "tkey": "2016-05-02_01:38:59-ByanRarron",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-19_20:39:23-KTM_Riders",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-19_05:59:51-MCNMG",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-19_11:04:06-Lasalle922014",
+          "match": "both"
+        },
+        {
+          "tkey": "2017-02-19_18:41:28-troy_s",
+          "match": "geo"
+        }
+      ]
+    },
+    {
+      "inputs": "48",
+      "expected": [
+        {
+          "tkey": "2016-05-16_12:09:17-gcain63",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-17_15:53:35-Ariellah01",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-18_23:13:03-JrStaffer",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "29",
+      "expected": [
+        {
+          "tkey": "2016-04-23_14:58:16-kawu_",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-12_17:26:14-_cfwillett",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "77",
+      "expected": [
+        {
+          "tkey": "2016-04-30_17:45:17-Anth_Nino",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-01_02:17:48-alexashlyn23",
+          "match": "both"
+        },
+        {
+          "tkey": "2016-05-01_10:28:29-Dana32343",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-09_20:56:59-SingleGayGuys",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-10_12:25:34-WomenWorldNews1",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-19_00:34:33-patzin",
+          "match": "both"
+        }
+      ]
+    },
+    {
+      "inputs": "47",
+      "expected": [
+        {
+          "tkey": "2016-05-02_22:56:39-poik007",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-17_23:13:55-TheAce6578",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-18_06:42:15-httpbaesicful",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "58",
+      "expected": [
+        {
+          "tkey": "2016-05-12_22:14:31-mychloegirl6124",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-18_18:07:31-COKEBOYrobinson",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "6",
+      "expected": [
+        {
+          "tkey": "2016-04-24_18:08:12-laucanobelieber",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-04-30_17:56:55-NaturallyPoofy",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-03_17:52:19-gabrielswheeler",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-22_19:38:31-sttsvetkova8532",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "32",
+      "expected": [
+        {
+          "tkey": "2016-04-28_08:43:50-djred678",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-04-30_23:26:39-smithcaitlin16",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-10_01:16:22-Paulhaider74",
+          "match": "both"
+        },
+        {
+          "tkey": "2016-05-16_04:08:11-Fraann_Man",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-17_20:00:04-bagoflayss",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-19_00:20:18-saraobrien_26",
+          "match": "geo"
+        }
+      ]
+    },
+    {
+      "inputs": "31",
+      "expected": [
+        {
+          "tkey": "2016-04-24_14:56:22-__FlorMendez",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-03_14:48:06-ned_c",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "35",
+      "expected": [
+        {
+          "tkey": "2016-04-26_00:04:16-cuttlefish_chi",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-18_03:16:06-alisha_norry",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "20",
+      "expected": [
+        {
+          "tkey": "2016-04-27_14:22:34-BabyLove_BAP",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-23_03:19:11-am_cleh",
+          "match": "geo"
+        },
+        {
+          "tkey": "2017-02-17_01:13:14-KyleSChak",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-19_02:57:45-ekmpls",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-19_16:59:07-mrcrom1",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "28",
+      "expected": [
+        {
+          "tkey": "2016-05-12_07:06:24-nass_tns",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-19_21:38:23-EleanorChavez7",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "79",
+      "expected": [
+        {
+          "tkey": "2016-05-03_02:32:57-90sHispanic99",
+          "match": "both"
+        },
+        {
+          "tkey": "2016-05-19_14:46:35-cxpricornholio",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "68",
+      "expected": [
+        {
+          "tkey": "2016-04-24_02:50:12-FocusonBiebsR5",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-20_00:00:04-isMetraLate",
+          "match": "both"
+        }
+      ]
+    },
+    {
+      "inputs": "5",
+      "expected": [
+        {
+          "tkey": "2016-05-06_21:37:11-tejrichardson",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-08_21:55:59-jpshaddai",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-21_01:33:51-PSLilyBoutique",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-18_03:37:10-JILL27595792",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "19",
+      "expected": [
+        {
+          "tkey": "2016-05-21_06:23:46-MightyShoes",
+          "match": "both"
+        },
+        {
+          "tkey": "2017-02-19_19:05:19-Galoot__",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "14",
+      "expected": [
+        {
+          "tkey": "2016-04-26_01:29:07-PauLeyPauleym99",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-04-30_15:57:36-JetsTradingCo",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-19_03:13:22-ctang48",
+          "match": "geo"
+        }
+      ]
+    },
+    {
+      "inputs": "92",
+      "expected": [
+        {
+          "tkey": "2016-05-15_18:23:02-DavidELPC",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-18_12:37:03-Ohio_Free_Press",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-18_09:38:05-murmansk",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-18_20:17:46-bIoodorb",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-19_08:41:46-DevaRamkelawan",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "45",
+      "expected": [
+        {
+          "tkey": "2016-05-12_02:59:35-MadiShae29",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-22_13:41:11-ItemsLuscious",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-18_07:15:53-BJSolomonCarson",
+          "match": "geo"
+        },
+        {
+          "tkey": "2017-02-19_06:56:59-Doug_Gamboa",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "51",
+      "expected": [
+        {
+          "tkey": "2016-04-24_16:12:07-RobertFulau",
+          "match": "geo"
+        },
+        {
+          "tkey": "2016-05-23_15:20:54-charl_margo",
+          "match": "geo"
+        }
+      ]
+    },
+    {
+      "inputs": "49",
+      "expected": [
+        {
+          "tkey": "2016-04-26_05:36:39-baenoists",
+          "match": "geo"
+        }
+      ]
+    },
+    {
+      "inputs": "18",
+      "expected": [
+        {
+          "tkey": "2016-05-19_16:37:27-claro",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-18_15:08:06-benware",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "78",
+      "expected": [
+        {
+          "tkey": "2016-05-21_11:24:51-Teeeee__4",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "89",
+      "expected": [
+        {
+          "tkey": "2017-02-19_23:51:59-LoveeSentari",
+          "match": "both"
+        }
+      ]
+    },
+    {
+      "inputs": "84",
+      "expected": [
+        {
+          "tkey": "2016-04-27_01:09:02-deanmurffy",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-04-28_00:35:11-NoraJones121",
+          "match": "both"
+        },
+        {
+          "tkey": "2017-02-18_00:28:44-MPml9wI22cLwji0",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "54",
+      "expected": [
+        {
+          "tkey": "2017-02-18_23:03:07-0fficialtayy__",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "67",
+      "expected": [
+        {
+          "tkey": "2016-05-19_12:51:22-anniebeans59",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "43",
+      "expected": [
+        {
+          "tkey": "2016-05-12_21:59:32-beritaterkini48",
+          "match": "name"
+        }
+      ]
+    },
+    {
+      "inputs": "61",
+      "expected": [
+        {
+          "tkey": "2016-05-02_01:54:23-jarrodrollins",
+          "match": "name"
+        },
+        {
+          "tkey": "2016-05-16_17:38:47-UrbanExAL",
+          "match": "name"
+        },
+        {
+          "tkey": "2017-02-17_00:22:29-ImVictorSpencer",
+          "match": "name"
+        }
+      ]
+    }
+  ]
+}

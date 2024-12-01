@@ -1,0 +1,25 @@
+{
+  "post_path": "inspections",
+  "response": 200,
+  "values": [
+    {
+      "inspection_id": "2369871",
+      "name": "CELIS NUTRICION",
+      "aka_name": "CELIS NUTRICION",
+      "license_number": "2264071",
+      "facility_type": "Restaurant",
+      "risk": "Risk 2 (Medium)",
+      "address": "3344 W 63RD ST ",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zip": "60629",
+      "date": "04/29/2020",
+      "inspection_type": "Canvass",
+      "results": "Fail",
+      "violations": "3. MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING - Comments: NO EMPLOYEE HEALTH POLICY IN PLACE. INSTD TO PROVIDE A VERIFIABLE EMPLOYEE ACKNOWLEDGED HEALTH POLICY AND MAINTAIN. PRIORITY FOUNDATION 7-38-010 | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: NO PEST CONTROL LOGBOOK OR PROOF OF SERVICE ON SITE. INSTD TO PROVIDE AND MAINTAIN ON SITE. PRIORITY FOUNDATION 7-38-030(C).",
+      "latitude": "41.779014264743914",
+      "longitude": "-87.70734216168728",
+      "location": "(-87.70734216168728, 41.779014264743914)"
+    }
+  ]
+}

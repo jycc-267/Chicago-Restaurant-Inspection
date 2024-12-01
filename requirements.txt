@@ -1,0 +1,5 @@
+flask ~= 2.3.2
+requests >= 2.0
+textdistance
+strsim
+jellyfish

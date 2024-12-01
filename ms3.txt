@@ -1,0 +1,27 @@
+Team members:
+None, done by myself.
+
+Functionality incomplete:
+None
+
+Estimated hours spent:
+12-13 hours
+
+Parts you got stuck on (if any):
+Coming out a good way to select primary record given a linked record set.
+
+How work was partitioned:
+All done by myself.
+
+How you are cleaning records:
+
+Model:
+1. Do jaro winkler on {"name", "address", "city"}; do exact matching on {state, zipcode}.
+2. Assign higher weights to {"name", "address"}, and then {"city", "state"}, with least weight assigned to {"zipcode"}.
+
+Update DB ri_linked, ri_restaurants, and ri_inspections:
+Maintain a primary record id tracker where the primary record of the processed linked records is put into the tracker st. logic for creating a primary record only needs to occur once.
+
+For selecting an authoritative (primary) restaurant record:
+1. choose the record with smallest restaurant id as primary record (ensure that whenever )
+2. replace the "name" and "address" with the longest name and address among all linked records (from observing chiDirty10.json, I figure out that missing characters is a common typo and thus name/address with longer string length is likely to be correct.)

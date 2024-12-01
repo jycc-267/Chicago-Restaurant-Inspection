@@ -1,0 +1,63 @@
+{
+  "post_path": "inspections",
+  "response": 200,
+  "values": [
+    {
+      "inspection_id": "2369871",
+      "name": "CELIS NUTRICION",
+      "aka_name": "CELIS NUTRICION",
+      "license_number": "2264071",
+      "facility_type": "Restaurant",
+      "risk": "Risk 2 (Medium)",
+      "address": "3344 W 63RD ST ",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zip": "60629",
+      "date": "04/29/2020",
+      "inspection_type": "Canvass",
+      "results": "Fail",
+      "violations": "3. MANAGEMENT, FOOD EMPLOYEE AND CONDITIONAL EMPLOYEE; KNOWLEDGE, RESPONSIBILITIES AND REPORTING - Comments: NO EMPLOYEE HEALTH POLICY IN PLACE. INSTD TO PROVIDE A VERIFIABLE EMPLOYEE ACKNOWLEDGED HEALTH POLICY AND MAINTAIN. PRIORITY FOUNDATION 7-38-010 | 38. INSECTS, RODENTS, & ANIMALS NOT PRESENT - Comments: NO PEST CONTROL LOGBOOK OR PROOF OF SERVICE ON SITE. INSTD TO PROVIDE AND MAINTAIN ON SITE. PRIORITY FOUNDATION 7-38-030(C).",
+      "latitude": "41.779014264743914",
+      "longitude": "-87.70734216168728",
+      "location": "(-87.70734216168728, 41.779014264743914)"
+    },
+    {
+      "inspection_id": "2369783",
+      "name": "Azusa Liquors Inc.",
+      "aka_name": "Azusa Liquors",
+      "license_number": "1547974",
+      "facility_type": "Grocery Store",
+      "risk": "Risk 3 (Low)",
+      "address": "4411-4413 N BROADWAY ",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zip": "60640",
+      "date": "04/27/2020",
+      "inspection_type": "Canvass",
+      "results": "Fail",
+      "violations": "5. PROCEDURES FOR RESPONDING TO VOMITING AND DIARRHEAL EVENTS - Comments: FOUND NO VOMIT AND DIARRHEAL CLEANUP PROCEDURES/VOMIT SPILL KIT. PRIORITY FOUNDATION. NO CITATION ISSUED. 7-38-005. MUST PROVIDE. | 50. HOT & COLD WATER AVAILABLE; ADEQUATE PRESSURE - Comments: FOUND NO HOT WATER AT PREMISES. MANAGEMENT STATES HOT WATER TANK INOPERABLE. PRIORITY VIOLATION. NO CITATION ISSUED. 7-38-030C. MUST PROVIDE HOT WATER AT PREMISES BY WED. 4-29-2020. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: FOUND WALLS AT BASEMENT DRY STORAGE NOT SMOOTH AND EASY TO CLEAN. MUST REPAIR. | 55. PHYSICAL FACILITIES INSTALLED, MAINTAINED & CLEAN - Comments: FOUND FLOORS NOT CLEAN AT PREMISES/BASEMENT STORAGE. MUST CLEAN AND SANITIZE.",
+      "latitude": "41.96215337650536",
+      "longitude": "-87.65523520127385",
+      "location": "(-87.65523520127385, 41.96215337650536)"
+    },
+    {
+      "inspection_id": "2369554",
+      "name": "MADISON FOOD & LIQUOR",
+      "aka_name": "MADISON FOOD & LIQUOR",
+      "license_number": "2718460",
+      "facility_type": "Grocery Store",
+      "risk": "Risk 3 (Low)",
+      "address": "5069 W MADISON ST ",
+      "city": "CHICAGO",
+      "state": "IL",
+      "zip": "60644",
+      "date": "04/22/2020",
+      "inspection_type": "License Re-Inspection",
+      "results": "Pass",
+      "violations": "",
+      "latitude": "41.880296089471855",
+      "longitude": "-87.7524941981518",
+      "location": "(-87.7524941981518, 41.880296089471855)"
+    }
+  ]
+}
